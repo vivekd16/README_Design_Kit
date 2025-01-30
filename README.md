@@ -78,3 +78,12 @@
 ---
 
 
+<h3>Stats Card 2 </h3> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur-Pagote&show_icons=true&locale=en&theme=tokyonight" alt="Mayur-Pagote" />
+ 
+```bash
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur-Pagote&show_icons=true&locale=en&theme=tokyonight" alt="Mayur-Pagote" />
+```
+<br>
+
+---
