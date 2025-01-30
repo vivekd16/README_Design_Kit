@@ -87,3 +87,14 @@
 <br>
 
 ---
+
+
+<h3>Stats Card 3 </h3> 
+<img height="180em" src="https://github-stats-alpha.vercel.app/api/?username=Mayur-Pagote" alt ="Stats"/>
+ 
+```bash
+<img height="180em" src="https://github-stats-alpha.vercel.app/api/?username=Mayur-Pagote" alt ="Stats"/>
+```
+<br>
+
+---
