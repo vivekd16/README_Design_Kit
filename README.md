@@ -98,3 +98,16 @@
 <br>
 
 ---
+
+
+<h3>Stats Card 4 </h3> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur-Pagote&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave"/>
+ 
+```bash
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur-Pagote&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave"/>
+```
+<br>
+
+---
+
+
