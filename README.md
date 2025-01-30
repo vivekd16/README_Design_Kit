@@ -111,3 +111,12 @@
 ---
 
 
+<h3>Stats Card 5 </h3> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur-Pagote&rank_icon=github&theme=highcontrast">
+
+```bash
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur-Pagote&rank_icon=github&theme=highcontrast">
+```
+<br>
+
+---
