@@ -65,3 +65,16 @@
 <br>
 
 ---
+
+
+<h3>Stats Card 1 </h3> 
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayur-Pagote&theme=2077"/>
+
+```bash
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayur-Pagote&theme=2077"/>
+```
+<br>
+
+---
+
+
