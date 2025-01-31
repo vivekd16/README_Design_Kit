@@ -120,3 +120,14 @@
 <br>
 
 ---
+
+
+<h3>Stats Card 6 </h3> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur-Pagote&rank_icon=percentile&theme=vision-friendly-dark">
+
+```bash
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur-Pagote&rank_icon=percentile&theme=vision-friendly-dark">
+```
+<br>
+
+---
