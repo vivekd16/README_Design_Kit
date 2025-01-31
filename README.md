@@ -131,3 +131,14 @@
 <br>
 
 ---
+
+
+<h3>Stats Bar Card </h3> 
+<img height="180em" src="https://github-widgetbox.vercel.app/api/profile?username=Mayur-Pagote&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+ 
+```bash
+<img height="180em" src="https://github-widgetbox.vercel.app/api/profile?username=Mayur-Pagote&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+```
+<br>
+
+---
