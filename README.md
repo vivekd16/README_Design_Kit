@@ -137,8 +137,6 @@
 ```
 <br>
 
-</details>
-
 ---
 
 
@@ -149,6 +147,8 @@
 <img height="180em" src="https://github-widgetbox.vercel.app/api/profile?username=Mayur-Pagote&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
 ```
 <br>
+
+</details>
 
 ---
 
