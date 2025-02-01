@@ -1,5 +1,8 @@
 <h1 align="center"> ReadmeDesignKit </h1>
 
+<details>
+<summary><h2>Contribution Graphs</h2></summary>
+
 <h3>Contribution Graph 1 </h3> 
 <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Mayur-Pagote&theme=react-dark&hide_border=false">
 
@@ -63,6 +66,8 @@
 <img alt="GitHub Contributions Graph" src="https://ssr-contributions-svg.vercel.app/_/Mayur-Pagote?chart=3dbar&flatten=1&weeks=34&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink"/>
 ```
 <br>
+
+</details>
 
 ---
 
