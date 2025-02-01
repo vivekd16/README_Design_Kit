@@ -142,3 +142,14 @@
 <br>
 
 ---
+
+
+<h3>Most Used Language Card 1 </h3> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Pagote&langs_count=5"/>
+
+```bash
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Pagote&langs_count=5"/>
+```
+<br>
+
+---
