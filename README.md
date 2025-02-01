@@ -270,3 +270,14 @@
 
 ---
 
+
+<h3>GitHub Trophies </h3> 
+<img src="https://github-profile-trophy.vercel.app/?username=Mayur-Pagote&theme=radical" alt="Mayur-Pagote" />
+ 
+```bash
+<img src="https://github-profile-trophy.vercel.app/?username=Mayur-Pagote&theme=radical" alt="Mayur-Pagote" />
+```
+
+<br>
+
+---
