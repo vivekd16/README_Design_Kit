@@ -247,10 +247,10 @@
 
 
 <h3>Top Contributed Repo </h3> 
-<img src="https://github-contributor-stats.vercel.app/api?username=Demo-Contributer&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true" />
+<img src="https://github-contributor-stats.vercel.app/api?username=Mayur-Pagote&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true" />
  
 ```bash
-<img src="https://github-contributor-stats.vercel.app/api?username=Demo-Contributer&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true" />
+<img src="https://github-contributor-stats.vercel.app/api?username=Mayur-Pagote&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true" />
 ```
 
 <br>
