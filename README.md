@@ -152,7 +152,9 @@
 
 ---
 
-
+<details>
+<summary><h2>Language Cards</h2></summary>
+ 
 <h3>Most Used Language Card 1 </h3> 
 <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Pagote&langs_count=5"/>
 
@@ -228,8 +230,9 @@
 
 <br>
 
----
+</details>
 
+---
 
 <h3>Productive Time </h3> 
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mayur-Pagote&theme=transparent" />
