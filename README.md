@@ -71,7 +71,9 @@
 
 ---
 
-
+<details>
+<summary><h2>Stats Cards</h2></summary>
+ 
 <h3>Stats Card 1 </h3> 
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayur-Pagote&theme=2077"/>
 
@@ -134,6 +136,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur-Pagote&rank_icon=percentile&theme=vision-friendly-dark">
 ```
 <br>
+
+</details>
 
 ---
 
