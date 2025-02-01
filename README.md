@@ -145,10 +145,10 @@
 
 
 <h3>Most Used Language Card 1 </h3> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Pagote&langs_count=5"/>
+<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Pagote&langs_count=5"/>
 
 ```bash
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Pagote&langs_count=5"/>
+<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Pagote&langs_count=5"/>
 ```
 <br>
 
@@ -156,10 +156,10 @@
 
 
 <h3>Most Used Language Card 2 </h3> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Pagote&layout=compact"/>
+<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Pagote&layout=compact"/>
 
 ```bash
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Pagote&layout=compact"/>
+<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Pagote&layout=compact"/>
 ```
 <br>
 
@@ -167,10 +167,10 @@
 
 
 <h3>Most Used Language Card 3 </h3> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Pagote&layout=donut-vertical&theme=dark"/>
+<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Pagote&layout=donut-vertical&theme=dark"/>
 
 ```bash
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Pagote&layout=donut-vertical&theme=dark"/>
+<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Pagote&layout=donut-vertical&theme=dark"/>
 ```
 <br>
 
@@ -178,10 +178,10 @@
 
 
 <h3>Most Used Language Card 4 </h3> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Pagote&layout=pie&theme=merko"/>
+<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Pagote&layout=pie&theme=merko"/>
 
 ```bash
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Pagote&layout=pie&theme=merko"/>
+<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Pagote&layout=pie&theme=merko"/>
 ```
 <br>
 
@@ -189,10 +189,10 @@
 
 
 <h3>Most Used Language Card 5 </h3> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Pagote&hide_progress=true"/>
+<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Pagote&hide_progress=true"/>
 
 ```bash
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Pagote&hide_progress=true"/>
+<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Pagote&hide_progress=true"/>
 ```
 <br>
 
