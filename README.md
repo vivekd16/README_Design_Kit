@@ -347,7 +347,7 @@
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=DemoContributer"/>
  
 ```bash
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=DemoContributer)
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=DemoContributer"/>
 ```
 
 <br>
