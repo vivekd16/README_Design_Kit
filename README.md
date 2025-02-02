@@ -347,7 +347,6 @@
 
 
 <h3>Codeforces Stats</h3> 
-
 <img height="180em" src="https://codeforces-readme-stats.vercel.app/api/card?username=DemoContributer"/>
  
 ```bash
@@ -422,12 +421,10 @@
 
 
 <h3>Quotes 1</h3> 
+<img height="180em" src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=churchill&font=Gabrielle&animation=grow_out_in"/>
 
- ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=churchill&font=Gabrielle&animation=grow_out_in)
-
- 
 ```bash
- ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=churchill&font=Gabrielle&animation=grow_out_in)
+<img height="180em" src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=churchill&font=Gabrielle&animation=grow_out_in"/>
 ```
 
 <br>
