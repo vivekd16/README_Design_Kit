@@ -331,11 +331,10 @@
 
 
 <h3>GFG Stats </h3> 
-
-![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=democontributer)
+<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=democontributer" />
  
 ```bash
-![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=democontributer)
+<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=democontributer" />
 ```
 
 <br>
