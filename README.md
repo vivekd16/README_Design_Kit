@@ -440,6 +440,18 @@
 ---
 
 
+<h3>Quotes 1</h3> 
+<img height="180em" src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=samuel&font=default&quoteType=random&bgColor=black"/>
+
+```bash
+<img height="180em" src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=samuel&font=default&quoteType=random&bgColor=black"/>
+```
+
+<br>
+
+---
+
+
 <h3>Quotes 2</h3> 
 <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
  
