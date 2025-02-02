@@ -18,7 +18,7 @@
 <img height = "180em" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayur-Pagote&theme=radical"/>
 
 ```bash
-<img height = "180em" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayur-Pagote&theme=radical"/>
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayur-Pagote&theme=radical"/>
 ```
 <br>
 
