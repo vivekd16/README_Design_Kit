@@ -536,4 +536,12 @@
 ---
 
 
+<h3>Blue Line</h3> 
+<img src="https://github.com/user-attachments/assets/ba29d041-a96a-47ad-817a-2b6553480193" width="100%" height="2px" /> 
 
+```bash
+<img src="https://github.com/user-attachments/assets/ba29d041-a96a-47ad-817a-2b6553480193" width="100%" height="2px" />
+```
+<br>
+
+---
