@@ -393,3 +393,15 @@
 <br>
 
 ---
+
+
+<h3>Profile Views Counter 3 </h3> 
+<img src="https://moe-count.glitch.me/get/@Mayur-Pagote?theme=asoul" alt=":Mayur-Pagote" />
+ 
+```bash
+ <img src="https://moe-count.glitch.me/get/@Mayur-Pagote?theme=asoul" alt=":Mayur-Pagote" />
+```
+
+<br>
+
+---
