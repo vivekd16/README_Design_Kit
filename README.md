@@ -295,10 +295,10 @@
 
 
 <h3>Leetcode Stats 1 </h3> 
-<img src="https://leetcard.jacoblin.cool/Demo-Contributer?theme=dark&font=Josefin%20Slab&ext=heatmap" />
+<img height="180em" src="https://leetcard.jacoblin.cool/Demo-Contributer?theme=dark&font=Josefin%20Slab&ext=heatmap" />
  
 ```bash
-<img src="https://leetcard.jacoblin.cool/Demo-Contributer?theme=dark&font=Josefin%20Slab&ext=heatmap" />
+<img height="180em" src="https://leetcard.jacoblin.cool/Demo-Contributer?theme=dark&font=Josefin%20Slab&ext=heatmap" />
 ```
 
 <br>
