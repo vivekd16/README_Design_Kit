@@ -118,7 +118,7 @@
 ---
 
 
-<h3>Stats Card 5 </h3> 
+<h3>Stats Card 5</h3> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur-Pagote&rank_icon=github&theme=highcontrast">
 
 ```bash
@@ -129,7 +129,7 @@
 ---
 
 
-<h3>Stats Card 6 </h3> 
+<h3>Stats Card 6</h3> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur-Pagote&rank_icon=percentile&theme=vision-friendly-dark">
 
 ```bash
