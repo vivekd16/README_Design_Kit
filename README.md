@@ -392,7 +392,7 @@
 
 
 
-<h3>Profile Views Counter 1</h3> 
+<h3>Profile Views Counter 2</h3> 
 
 <img src="https://komarev.com/ghpvc/?username=Mayur-Pagote&abbreviated=true"/>
 
