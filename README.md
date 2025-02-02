@@ -319,11 +319,10 @@
 
 
 <h3>Leetcode Stats 3 </h3> 
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Demo-Contributer?ext=heatmap&theme=wtf&font=M+PLUS+Rounded+1c&border=2&radius=20)
+<img src="https://leetcard.jacoblin.cool/Demo-Contributer?ext=heatmap&theme=wtf&font=M+PLUS+Rounded+1c&border=2&radius=20" />
  
 ```bash
-![LeetCode Stats](https://leetcard.jacoblin.cool/Demo-Contributer?ext=heatmap&theme=wtf&font=M+PLUS+Rounded+1c&border=2&radius=20)
+<img src="https://leetcard.jacoblin.cool/Demo-Contributer?ext=heatmap&theme=wtf&font=M+PLUS+Rounded+1c&border=2&radius=20" />
 ```
 
 <br>
