@@ -335,7 +335,7 @@
 
 <h3>GFG Stats </h3> 
 
- ![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=democontributer)
+![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=democontributer)
  
 ```bash
 ![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=democontributer)
@@ -348,7 +348,7 @@
 
 <h3>Codeforces Stats </h3> 
 
- ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=DemoContributer)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=DemoContributer)
  
 ```bash
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=DemoContributer)
@@ -383,7 +383,7 @@
 ---
 
 
-<h3>Profile Views Counter 1 </h3> 
+<h3>Profile Views Counter 1</h3> 
 <img src="https://profile-counter.glitch.me/%7BMayur-Pagote10%7D/count.svg" alt="visitor badge"/>
  
 ```bash
