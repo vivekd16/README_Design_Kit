@@ -246,11 +246,11 @@
 ---
 
 
-<h3>Streak Stats </h3> 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Mayur-Pagote&theme=transparent&hide_border=true&" align="center" />
+<h3>Streak Stats</h3> 
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Mayur-Pagote&theme=transparent&hide_border=true&" align="center"/>
  
 ```bash
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Mayur-Pagote&theme=transparent&hide_border=true&" align="center" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Mayur-Pagote&theme=transparent&hide_border=true&" align="center"/>
 ```
 
 <br>
@@ -258,11 +258,11 @@
 ---
 
 
-<h3>Top Contributed Repo </h3> 
-<img height="180em" src="https://github-contributor-stats.vercel.app/api?username=Mayur-Pagote&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true" />
+<h3>Top Contributed Repo</h3> 
+<img height="180em" src="https://github-contributor-stats.vercel.app/api?username=Mayur-Pagote&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true"/>
  
 ```bash
-<img height="180em" src="https://github-contributor-stats.vercel.app/api?username=Mayur-Pagote&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true" />
+<img height="180em" src="https://github-contributor-stats.vercel.app/api?username=Mayur-Pagote&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true"/>
 ```
 
 <br>
@@ -282,11 +282,11 @@
 ---
 
 
-<h3>GitHub Trophies </h3> 
-<img src="https://github-profile-trophy.vercel.app/?username=Mayur-Pagote&theme=radical" alt="Mayur-Pagote" />
+<h3>GitHub Trophies</h3> 
+<img src="https://github-profile-trophy.vercel.app/?username=Mayur-Pagote&theme=radical" alt="Mayur-Pagote"/>
  
 ```bash
-<img src="https://github-profile-trophy.vercel.app/?username=Mayur-Pagote&theme=radical" alt="Mayur-Pagote" />
+<img src="https://github-profile-trophy.vercel.app/?username=Mayur-Pagote&theme=radical" alt="Mayur-Pagote"/>
 ```
 
 <br>
@@ -294,11 +294,11 @@
 ---
 
 
-<h3>Leetcode Stats 1 </h3> 
-<img height="180em" src="https://leetcard.jacoblin.cool/Demo-Contributer?theme=dark&font=Josefin%20Slab&ext=heatmap" />
+<h3>Leetcode Stats 1</h3> 
+<img height="180em" src="https://leetcard.jacoblin.cool/Demo-Contributer?theme=dark&font=Josefin%20Slab&ext=heatmap"/>
  
 ```bash
-<img height="180em" src="https://leetcard.jacoblin.cool/Demo-Contributer?theme=dark&font=Josefin%20Slab&ext=heatmap" />
+<img height="180em" src="https://leetcard.jacoblin.cool/Demo-Contributer?theme=dark&font=Josefin%20Slab&ext=heatmap"/>
 ```
 
 <br>
@@ -306,11 +306,11 @@
 ---
 
 
-<h3>Leetcode Stats 2 </h3> 
-<img src="https://leetcard.jacoblin.cool/Demo-Contributer?ext=contest&theme=dark" />
+<h3>Leetcode Stats 2</h3> 
+<img src="https://leetcard.jacoblin.cool/Demo-Contributer?ext=contest&theme=dark"/>
  
 ```bash
-<img src="https://leetcard.jacoblin.cool/Demo-Contributer?ext=contest&theme=dark" />
+<img src="https://leetcard.jacoblin.cool/Demo-Contributer?ext=contest&theme=dark"/>
 ```
 
 <br>
@@ -318,11 +318,11 @@
 ---
 
 
-<h3>Leetcode Stats 3 </h3> 
-<img src="https://leetcard.jacoblin.cool/Demo-Contributer?ext=heatmap&theme=wtf&font=M+PLUS+Rounded+1c&border=2&radius=20" />
+<h3>Leetcode Stats 3</h3> 
+<img src="https://leetcard.jacoblin.cool/Demo-Contributer?ext=heatmap&theme=wtf&font=M+PLUS+Rounded+1c&border=2&radius=20"/>
  
 ```bash
-<img src="https://leetcard.jacoblin.cool/Demo-Contributer?ext=heatmap&theme=wtf&font=M+PLUS+Rounded+1c&border=2&radius=20" />
+<img src="https://leetcard.jacoblin.cool/Demo-Contributer?ext=heatmap&theme=wtf&font=M+PLUS+Rounded+1c&border=2&radius=20"/>
 ```
 
 <br>
@@ -330,11 +330,11 @@
 ---
 
 
-<h3>GFG Stats </h3> 
-<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=democontributer" />
+<h3>GFG Stats</h3> 
+<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=democontributer"/>
  
 ```bash
-<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=democontributer" />
+<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=democontributer"/>
 ```
 
 <br>
@@ -342,9 +342,9 @@
 ---
 
 
-<h3>Codeforces Stats </h3> 
+<h3>Codeforces Stats</h3> 
 
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=DemoContributer" />
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=DemoContributer"/>
  
 ```bash
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=DemoContributer)
