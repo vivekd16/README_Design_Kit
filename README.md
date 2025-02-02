@@ -71,6 +71,7 @@
 
 ---
 
+
 <details>
 <summary><h2>Stats Cards</h2></summary>
  
@@ -294,6 +295,9 @@
 ---
 
 
+<details>
+<summary><h2>Coding Platform Stats Cards</h2></summary>
+
 <h3>Leetcode Stats 1</h3> 
 <img height="180em" src="https://leetcard.jacoblin.cool/Demo-Contributer?theme=dark&font=Josefin%20Slab&ext=heatmap"/>
  
@@ -351,6 +355,8 @@
 ```
 
 <br>
+
+</details>
 
 ---
 
