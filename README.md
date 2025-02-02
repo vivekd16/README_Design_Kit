@@ -396,3 +396,15 @@
 
 
 
+<h3>Profile Views Counter 1</h3> 
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Mayur-Pagote&abbreviated=true)](https://github.com/Mayur-Pagote)
+
+```bash
+[![Profile Views](https://komarev.com/ghpvc/?username=Mayur-Pagote&abbreviated=true)](https://github.com/Mayur-Pagote)
+```
+
+<br>
+
+---
+
