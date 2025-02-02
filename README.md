@@ -211,21 +211,21 @@
 
 
 <h3>Top Language By Repo</h3> 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayur-Pagote&theme=transparent"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayur-Pagote&theme=transparent"/>
 
 ```bash
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayur-Pagote&theme=transparent"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayur-Pagote&theme=transparent"/>
 ```
 <br>
 
 ---
 
 
-<h3>Most Commit Language </h3> 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayur-Pagote&theme=transparent"  />
+<h3>Most Commit Language</h3> 
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayur-Pagote&theme=transparent"/>
 
 ```bash
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayur-Pagote&theme=transparent"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayur-Pagote&theme=transparent"/>
 ```
 
 <br>
