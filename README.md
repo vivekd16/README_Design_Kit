@@ -271,10 +271,10 @@
 
 
 <h3>Repo Details</h3> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur-Pagote\&repo=README_Design_Kit\&theme=jolly"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur-Pagote\&repo=README_Design_Kit\&theme=jolly"/>
  
 ```bash
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur-Pagote\&repo=README_Design_Kit\&theme=jolly"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur-Pagote\&repo=README_Design_Kit\&theme=jolly"/>
 ```
 
 <br>
