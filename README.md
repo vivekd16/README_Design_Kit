@@ -440,7 +440,7 @@
 ---
 
 
-<h3>Quotes 1</h3> 
+<h3>Quotes 2</h3> 
 <img height="180em" src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=samuel&font=default&quoteType=random&bgColor=black"/>
 
 ```bash
@@ -452,11 +452,23 @@
 ---
 
 
-<h3>Quotes 2</h3> 
+<h3>Quotes 3</h3> 
 <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
  
 ```bash
 <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+```
+
+<br>
+
+---
+
+
+<h3>Quotes 4</h3> 
+<img height="180em" src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=zues&font=default&quoteType=random&bgColor=black"/>
+ 
+```bash
+<img height="180em" src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=zues&font=default&quoteType=random&bgColor=black"/>
 ```
 
 <br>
