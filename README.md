@@ -307,10 +307,10 @@
 
 
 <h3>Leetcode Stats 2</h3> 
-<img src="https://leetcard.jacoblin.cool/Demo-Contributer?ext=contest&theme=dark"/>
+<img height="180em" src="https://leetcard.jacoblin.cool/Demo-Contributer?ext=contest&theme=dark"/>
  
 ```bash
-<img src="https://leetcard.jacoblin.cool/Demo-Contributer?ext=contest&theme=dark"/>
+<img height="180em" src="https://leetcard.jacoblin.cool/Demo-Contributer?ext=contest&theme=dark"/>
 ```
 
 <br>
@@ -319,10 +319,10 @@
 
 
 <h3>Leetcode Stats 3</h3> 
-<img src="https://leetcard.jacoblin.cool/Demo-Contributer?ext=heatmap&theme=wtf&font=M+PLUS+Rounded+1c&border=2&radius=20"/>
+<img height="180em" src="https://leetcard.jacoblin.cool/Demo-Contributer?ext=heatmap&theme=wtf&font=M+PLUS+Rounded+1c&border=2&radius=20"/>
  
 ```bash
-<img src="https://leetcard.jacoblin.cool/Demo-Contributer?ext=heatmap&theme=wtf&font=M+PLUS+Rounded+1c&border=2&radius=20"/>
+<img height="180em" src="https://leetcard.jacoblin.cool/Demo-Contributer?ext=heatmap&theme=wtf&font=M+PLUS+Rounded+1c&border=2&radius=20"/>
 ```
 
 <br>
