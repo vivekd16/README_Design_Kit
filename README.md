@@ -199,7 +199,7 @@
 ---
 
 
-<h3>Most Used Language Card 5 </h3> 
+<h3>Most Used Language Card 5</h3> 
 <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur-Pagote&hide_progress=true"/>
 
 ```bash
@@ -210,7 +210,7 @@
 ---
 
 
-<h3>Top Language By Repo </h3> 
+<h3>Top Language By Repo</h3> 
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayur-Pagote&theme=transparent"  />
 
 ```bash
