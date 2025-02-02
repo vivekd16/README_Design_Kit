@@ -344,7 +344,7 @@
 
 <h3>Codeforces Stats </h3> 
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=DemoContributer)
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=DemoContributer" />
  
 ```bash
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=DemoContributer)
