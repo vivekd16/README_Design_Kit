@@ -74,7 +74,7 @@
 <details>
 <summary><h2>Stats Cards</h2></summary>
  
-<h3>Stats Card 1 </h3> 
+<h3>Stats Card 1</h3> 
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayur-Pagote&theme=2077"/>
 
 ```bash
@@ -85,11 +85,11 @@
 ---
 
 
-<h3>Stats Card 2 </h3> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur-Pagote&show_icons=true&locale=en&theme=tokyonight" alt="Mayur-Pagote" />
+<h3>Stats Card 2</h3> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur-Pagote&show_icons=true&locale=en&theme=tokyonight" alt="Mayur-Pagote"/>
  
 ```bash
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur-Pagote&show_icons=true&locale=en&theme=tokyonight" alt="Mayur-Pagote" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur-Pagote&show_icons=true&locale=en&theme=tokyonight" alt="Mayur-Pagote"/>
 ```
 <br>
 
