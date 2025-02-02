@@ -405,12 +405,12 @@
 
 
 
-<h3>Profile Views Counter 2</h3> 
+<h3>Profile Views Counter 3</h3> 
 
-![](https://komarev.com/ghpvc/?username=Mayur-Pagote&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=Mayur-Pagote&style=for-the-badge"/>
 
 ```bash
-![](https://komarev.com/ghpvc/?username=your-github-username&style=ffor-the-badge)
+<img src="https://komarev.com/ghpvc/?username=Mayur-Pagote&style=for-the-badge"/>
 ```
 
 <br>
