@@ -511,3 +511,17 @@
 <br>
 
 ---
+
+
+<h3>RGB Line Thick</h3> 
+<img src="https://github.com/user-attachments/assets/8ef43d13-14aa-4f76-914a-dac15f0a212b" width="100%" />
+
+```bash
+<img src="https://github.com/user-attachments/assets/8ef43d13-14aa-4f76-914a-dac15f0a212b" width="100%" />
+```
+<br>
+
+---
+
+
+
