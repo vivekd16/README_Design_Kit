@@ -447,3 +447,15 @@
 ---
 
 
+<h3>Jokes</h3> 
+
+ ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dark&qColor=%23944bcc&aColor=%23bbdb51)
+
+ 
+```bash
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dark&qColor=%23944bcc&aColor=%23bbdb51)
+```
+
+<br>
+
+---
