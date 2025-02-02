@@ -398,10 +398,10 @@
 
 <h3>Profile Views Counter 1</h3> 
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Mayur-Pagote&abbreviated=true)](https://github.com/Mayur-Pagote)
+<img src="https://komarev.com/ghpvc/?username=Mayur-Pagote&abbreviated=true"/>
 
 ```bash
-[![Profile Views](https://komarev.com/ghpvc/?username=Mayur-Pagote&abbreviated=true)](https://github.com/Mayur-Pagote)
+<img src="https://komarev.com/ghpvc/?username=Mayur-Pagote&abbreviated=true"/>
 ```
 
 <br>
