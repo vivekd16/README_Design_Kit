@@ -384,6 +384,9 @@
 ---
 
 
+<details>
+<summary><h2>Profile Views Counter</h2></summary>
+
 <h3>Profile Views Counter 1</h3> 
 <img src="https://profile-counter.glitch.me/%7BMayur-Pagote10%7D/count.svg" alt="visitor badge"/>
  
@@ -417,8 +420,13 @@
 
 <br>
 
+</details>
+
 ---
 
+
+<details>
+<summary><h2>Quotes and Jokes Cards</h2></summary>
 
 <h3>Quotes 1</h3> 
 <img height="180em" src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=churchill&font=Gabrielle&animation=grow_out_in"/>
@@ -454,3 +462,5 @@
 <br>
 
 ---
+
+</details>
