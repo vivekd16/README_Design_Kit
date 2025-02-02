@@ -331,10 +331,10 @@
 
 
 <h3>GFG Stats</h3> 
-<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=democontributer"/>
+<img height="180em" src="https://geeks-for-geeks-stats-card.vercel.app/?username=democontributer"/>
  
 ```bash
-<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=democontributer"/>
+<img height="180em" src="https://geeks-for-geeks-stats-card.vercel.app/?username=democontributer"/>
 ```
 
 <br>
@@ -344,10 +344,10 @@
 
 <h3>Codeforces Stats</h3> 
 
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=DemoContributer"/>
+<img height="180em" src="https://codeforces-readme-stats.vercel.app/api/card?username=DemoContributer"/>
  
 ```bash
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=DemoContributer"/>
+<img height="180em" src="https://codeforces-readme-stats.vercel.app/api/card?username=DemoContributer"/>
 ```
 
 <br>
