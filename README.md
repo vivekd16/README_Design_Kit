@@ -383,7 +383,7 @@
 ---
 
 
-<h3>Profile Views Counter 2 </h3> 
+<h3>Profile Views Counter 1 </h3> 
 <img src="https://profile-counter.glitch.me/%7BMayur-Pagote10%7D/count.svg" alt="visitor badge"/>
  
 ```bash
@@ -395,13 +395,4 @@
 ---
 
 
-<h3>Profile Views Counter 3 </h3> 
-<img src="https://moe-count.glitch.me/get/@Mayur-Pagote?theme=asoul" alt=":Mayur-Pagote" />
- 
-```bash
- <img src="https://moe-count.glitch.me/get/@Mayur-Pagote?theme=asoul" alt=":Mayur-Pagote" />
-```
 
-<br>
-
----
