@@ -391,7 +391,6 @@
 ---
 
 
-
 <h3>Profile Views Counter 2</h3> 
 
 <img src="https://komarev.com/ghpvc/?username=Mayur-Pagote&abbreviated=true"/>
@@ -404,3 +403,16 @@
 
 ---
 
+
+
+<h3>Profile Views Counter 2</h3> 
+
+![](https://komarev.com/ghpvc/?username=Mayur-Pagote&style=for-the-badge)
+
+```bash
+![](https://komarev.com/ghpvc/?username=your-github-username&style=ffor-the-badge)
+```
+
+<br>
+
+---
