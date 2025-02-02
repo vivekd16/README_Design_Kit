@@ -381,3 +381,15 @@
 <br>
 
 ---
+
+
+<h3>Profile Views Counter 2 </h3> 
+<img src="https://profile-counter.glitch.me/%7BMayur-Pagote10%7D/count.svg" alt="visitor badge"/>
+ 
+```bash
+<img src="https://profile-counter.glitch.me/%7BMayur-Pagote10%7D/count.svg" alt="visitor badge"/>
+```
+
+<br>
+
+---
