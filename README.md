@@ -96,7 +96,7 @@
 ---
 
 
-<h3>Stats Card 3 </h3> 
+<h3>Stats Card 3</h3> 
 <img height="180em" src="https://github-stats-alpha.vercel.app/api/?username=Mayur-Pagote" alt ="Stats"/>
  
 ```bash
@@ -107,7 +107,7 @@
 ---
 
 
-<h3>Stats Card 4 </h3> 
+<h3>Stats Card 4</h3> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur-Pagote&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave"/>
  
 ```bash
