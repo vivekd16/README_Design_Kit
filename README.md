@@ -420,6 +420,18 @@
 
 <br>
 
+---
+
+
+<h3>Profile Views Counter 4</h3> 
+<img src="https://count.getloli.com/get/@Mayur-Pagote?theme=rule34"/>
+
+```bash
+<img src="https://count.getloli.com/get/@Mayur-Pagote?theme=rule34"/>
+```
+
+<br>
+
 </details>
 
 ---
