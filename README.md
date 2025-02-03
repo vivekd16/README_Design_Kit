@@ -295,6 +295,18 @@
 ---
 
 
+<h3>Stargazers - Dark</h3> 
+<img src="https://reporoster.com/stars/dark/Mayur-Pagote/README_Design_Kit"/>
+ 
+```bash
+<img src="https://reporoster.com/stars/dark/Mayur-Pagote/README_Design_Kit"/>
+```
+
+<br>
+
+---
+
+
 <h3>GitHub Trophies</h3> 
 <img src="https://github-profile-trophy.vercel.app/?username=Mayur-Pagote&theme=radical" alt="Mayur-Pagote"/>
  
