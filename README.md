@@ -98,6 +98,17 @@
 ---
 
 
+<h3>Stats Card 3 (Animated)</h3> 
+<img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/Mayur-Pagote?theme=dracula&cardType=level-alternate">
+
+```bash
+<img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/Mayur-Pagote?theme=dracula&cardType=level-alternate">
+```
+<br>
+
+---
+
+
 <h3>Stats Card 2</h3> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur-Pagote&show_icons=true&locale=en&theme=tokyonight" alt="Mayur-Pagote"/>
  
