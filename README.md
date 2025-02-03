@@ -259,6 +259,8 @@
 
 ---
 
+<details>
+<summary><h2>Repository Details Cards</h2></summary>
 
 <h3>Top Contributed Repo</h3> 
 <img height="180em" src="https://github-contributor-stats.vercel.app/api?username=Mayur-Pagote&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true"/>
@@ -328,6 +330,8 @@
 ```
 
 <br>
+
+</details>
 
 ---
 
