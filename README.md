@@ -74,16 +74,18 @@
 
 <details>
 <summary><h2>Stats Cards</h2></summary>
- 
+
+
 <h3>Stats Card 1</h3> 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayur-Pagote&theme=2077"/>
+<img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/Mayur-Pagote?theme=tokyonight">
 
 ```bash
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayur-Pagote&theme=2077"/>
+<img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/Mayur-Pagote?theme=tokyonight">
 ```
 <br>
 
 ---
+
 
 
 <h3>Stats Card 2</h3> 
@@ -141,11 +143,12 @@
 ---
 
 
-<h3>Stats Card 7 (Animated)</h3> 
-<img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/Mayur-Pagote?theme=tokyonight">
+
+<h3>Stats Card 7</h3> 
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayur-Pagote&theme=2077"/>
 
 ```bash
-<img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/Mayur-Pagote?theme=tokyonight">
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayur-Pagote&theme=2077"/>
 ```
 <br>
 
