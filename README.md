@@ -149,6 +149,30 @@
 ```
 <br>
 
+---
+
+<h3>Productive Time</h3> 
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mayur-Pagote&theme=transparent"/>
+
+```bash
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mayur-Pagote&theme=transparent"/>
+```
+
+<br>
+
+---
+
+
+<h3>Streak Stats</h3> 
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Mayur-Pagote&theme=transparent&hide_border=true&" align="center"/>
+ 
+```bash
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Mayur-Pagote&theme=transparent&hide_border=true&" align="center"/>
+```
+
+<br>
+
+
 </details>
 
 ---
@@ -232,29 +256,6 @@
 <br>
 
 </details>
-
----
-
-<h3>Productive Time</h3> 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mayur-Pagote&theme=transparent"/>
-
-```bash
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mayur-Pagote&theme=transparent"/>
-```
-
-<br>
-
----
-
-
-<h3>Streak Stats</h3> 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Mayur-Pagote&theme=transparent&hide_border=true&" align="center"/>
- 
-```bash
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Mayur-Pagote&theme=transparent&hide_border=true&" align="center"/>
-```
-
-<br>
 
 ---
 
