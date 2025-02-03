@@ -432,6 +432,19 @@
 
 <br>
 
+---
+
+
+<h3>Profile Views Counter 3</h3> 
+<img src="https://hits.sh/github.com/Mayur-Pagote/hits.svg?style=plastic&label=Visitors&color=purple&labelColor=indigo&logo=github">
+
+```bash
+<img src="https://hits.sh/github.com/Mayur-Pagote/hits.svg?style=plastic&label=Visitors&color=purple&labelColor=indigo&logo=github">
+```
+
+<br>
+
+
 </details>
 
 ---
