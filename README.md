@@ -120,44 +120,11 @@
 ---
 
 
-<h3>Stats Card 2</h3> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur-Pagote&show_icons=true&locale=en&theme=tokyonight" alt="Mayur-Pagote"/>
- 
-```bash
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur-Pagote&show_icons=true&locale=en&theme=tokyonight" alt="Mayur-Pagote"/>
-```
-<br>
-
----
-
-
-<h3>Stats Card 3</h3> 
-<img height="180em" src="https://github-stats-alpha.vercel.app/api/?username=Mayur-Pagote" alt ="Stats"/>
- 
-```bash
-<img height="180em" src="https://github-stats-alpha.vercel.app/api/?username=Mayur-Pagote" alt ="Stats"/>
-```
-<br>
-
----
-
-
-<h3>Stats Card 4</h3> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur-Pagote&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave"/>
- 
-```bash
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur-Pagote&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave"/>
-```
-<br>
-
----
-
-
 <h3>Stats Card 5</h3> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur-Pagote&rank_icon=github&theme=highcontrast">
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur-Pagote&show_icons=true&locale=en&theme=tokyonight" alt="Mayur-Pagote"/>
+ 
 ```bash
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur-Pagote&rank_icon=github&theme=highcontrast">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur-Pagote&show_icons=true&locale=en&theme=tokyonight" alt="Mayur-Pagote"/>
 ```
 <br>
 
@@ -165,6 +132,39 @@
 
 
 <h3>Stats Card 6</h3> 
+<img height="180em" src="https://github-stats-alpha.vercel.app/api/?username=Mayur-Pagote" alt ="Stats"/>
+ 
+```bash
+<img height="180em" src="https://github-stats-alpha.vercel.app/api/?username=Mayur-Pagote" alt ="Stats"/>
+```
+<br>
+
+---
+
+
+<h3>Stats Card 7</h3> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur-Pagote&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave"/>
+ 
+```bash
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur-Pagote&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave"/>
+```
+<br>
+
+---
+
+
+<h3>Stats Card 8</h3> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur-Pagote&rank_icon=github&theme=highcontrast">
+
+```bash
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur-Pagote&rank_icon=github&theme=highcontrast">
+```
+<br>
+
+---
+
+
+<h3>Stats Card 9</h3> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayur-Pagote&rank_icon=percentile&theme=vision-friendly-dark">
 
 ```bash
@@ -176,7 +176,7 @@
 
 
 
-<h3>Stats Card 7</h3> 
+<h3>Stats Card 10</h3> 
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayur-Pagote&theme=2077"/>
 
 ```bash
