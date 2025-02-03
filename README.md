@@ -287,7 +287,7 @@
 <img src="https://reporoster.com/stars/Mayur-Pagote/README_Design_Kit"/>
  
 ```bash
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur-Pagote\&repo=README_Design_Kit\&theme=jolly"/>
+<img src="https://reporoster.com/stars/Mayur-Pagote/README_Design_Kit"/>
 ```
 
 <br>
