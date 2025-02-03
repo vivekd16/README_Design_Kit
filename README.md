@@ -283,6 +283,18 @@
 ---
 
 
+<h3>Stargazers - Light</h3> 
+<img src="https://reporoster.com/stars/Mayur-Pagote/README_Design_Kit"/>
+ 
+```bash
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur-Pagote\&repo=README_Design_Kit\&theme=jolly"/>
+```
+
+<br>
+
+---
+
+
 <h3>GitHub Trophies</h3> 
 <img src="https://github-profile-trophy.vercel.app/?username=Mayur-Pagote&theme=radical" alt="Mayur-Pagote"/>
  
