@@ -558,10 +558,12 @@
 
 <br>
 
----
-
 </details>
 
+---
+
+<details>
+<summary><h2>Lines and Waves</h2></summary>
 
 <h3>RGB Line Thin</h3> 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" /> 
@@ -619,6 +621,17 @@
 ---
 
 
+<h3>Blue Line Thick</h3> 
+<img src="https://github.com/user-attachments/assets/974623d2-518d-4ce9-984e-7539e108f024" width="100%"> 
+
+```bash
+<img src="https://github.com/user-attachments/assets/974623d2-518d-4ce9-984e-7539e108f024" width="100%"> 
+```
+<br>
+
+---
+
+
 <h3>Wave 1</h3> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header" width="100%"/> 
 
@@ -637,5 +650,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 ```
 <br>
+
+</details>
 
 ---
