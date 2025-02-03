@@ -76,7 +76,7 @@
 <summary><h2>Stats Cards</h2></summary>
 
 
-<h3>Stats Card 1</h3> 
+<h3>Stats Card 1 (Animated)</h3> 
 <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/Mayur-Pagote?theme=tokyonight">
 
 ```bash
@@ -86,6 +86,16 @@
 
 ---
 
+
+<h3>Stats Card 2 (Animated)</h3> 
+<img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/Mayur-Pagote?theme=github&cardType=octocat">
+
+```bash
+<img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/Mayur-Pagote?theme=github&cardType=octocat">
+```
+<br>
+
+---
 
 
 <h3>Stats Card 2</h3> 
