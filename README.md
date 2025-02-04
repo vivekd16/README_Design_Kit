@@ -593,10 +593,10 @@
 
 
 <h3>RGB Line Medium</h3> 
-<img src="https://github.com/user-attachments/assets/0c7610a7-c0cf-4da1-af9c-7002d08c683d" width="100%"> 
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/aa28326300247d989c9f7c2eeb177f59577d785b/Assets/RGB%20Line%20Medium.gif" width="100%"> 
  
 ```bash
-<img src="https://github.com/user-attachments/assets/0c7610a7-c0cf-4da1-af9c-7002d08c683d" width="100%"> 
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/aa28326300247d989c9f7c2eeb177f59577d785b/Assets/RGB%20Line%20Medium.gif" width="100%"> 
 ```
 <br>
 
