@@ -647,6 +647,17 @@
 ---
 
 
+<h3>Static Line</h3> 
+<img src="https://github.com/user-attachments/assets/74a7f89a-497d-4d30-a0b0-f7c04591bfdf" width="100%"> 
+
+```bash
+<img src="https://github.com/user-attachments/assets/74a7f89a-497d-4d30-a0b0-f7c04591bfdf" width="100%"> 
+```
+<br>
+
+---
+
+
 <h3>Wave 1</h3> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header" width="100%"/> 
 
