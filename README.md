@@ -658,11 +658,11 @@
 ---
 
 
-<h3>Static Line</h3> 
-<img src="https://github.com/user-attachments/assets/74a7f89a-497d-4d30-a0b0-f7c04591bfdf" width="100%"> 
+<h3>Multicolor Static Line</h3> 
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/1bb0f2254d2034e5769544f497e47f01b3b9b571/Assets/Multicolor%20Static%20Line.png" width="100%"> 
 
 ```bash
-<img src="https://github.com/user-attachments/assets/74a7f89a-497d-4d30-a0b0-f7c04591bfdf" width="100%"> 
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/1bb0f2254d2034e5769544f497e47f01b3b9b571/Assets/Multicolor%20Static%20Line.png" width="100%"> 
 ```
 <br>
 
