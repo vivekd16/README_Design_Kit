@@ -669,3 +669,21 @@
 </details>
 
 ---
+
+
+<details>
+<summary><h2>Decorations</h2></summary>
+
+<h3>Wing Left</h3> 
+<img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
+
+```bash
+<img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
+```
+
+<br>
+
+---
+
+
+</details>
