@@ -615,21 +615,10 @@
 
 
 <h3>Blue Line</h3> 
-<img src="https://github.com/user-attachments/assets/ba29d041-a96a-47ad-817a-2b6553480193" width="100%" height="2px" /> 
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/ddf2e61e40a672d5148927e186f409efbda38ef5/Assets/Blue%20Line.gif" width="100%" height="2px" /> 
 
 ```bash
-<img src="https://github.com/user-attachments/assets/ba29d041-a96a-47ad-817a-2b6553480193" width="100%" height="2px" />
-```
-<br>
-
----
-
-
-<h3>Starlight Line</h3> 
-<img src="https://github.com/user-attachments/assets/bd3c1f54-384a-45bb-ae9a-4632b19dbb3c" width="100%"> 
-
-```bash
-<img src="https://github.com/user-attachments/assets/bd3c1f54-384a-45bb-ae9a-4632b19dbb3c" width="100%">
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/ddf2e61e40a672d5148927e186f409efbda38ef5/Assets/Blue%20Line.gif" width="100%" height="2px" />
 ```
 <br>
 
@@ -637,10 +626,20 @@
 
 
 <h3>Blue Line Thick</h3> 
-<img src="https://github.com/user-attachments/assets/974623d2-518d-4ce9-984e-7539e108f024" width="100%"> 
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/ddf2e61e40a672d5148927e186f409efbda38ef5/Assets/Blue%20Line.gif" width="100%"> 
 
 ```bash
-<img src="https://github.com/user-attachments/assets/974623d2-518d-4ce9-984e-7539e108f024" width="100%"> 
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/ddf2e61e40a672d5148927e186f409efbda38ef5/Assets/Blue%20Line.gif" width="100%"> 
+```
+<br>
+
+---
+
+<h3>Starlight Line</h3> 
+<img src="https://github.com/user-attachments/assets/bd3c1f54-384a-45bb-ae9a-4632b19dbb3c" width="100%"> 
+
+```bash
+<img src="https://github.com/user-attachments/assets/bd3c1f54-384a-45bb-ae9a-4632b19dbb3c" width="100%">
 ```
 <br>
 
