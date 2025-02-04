@@ -636,10 +636,10 @@
 ---
 
 <h3>Starlight Line</h3> 
-<img src="https://github.com/user-attachments/assets/bd3c1f54-384a-45bb-ae9a-4632b19dbb3c" width="100%"> 
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/45123f007c79aa8d0c8d9b11b3ff72d6bf4744c7/Assets/Star%20Light%20Line.gif" width="100%"> 
 
 ```bash
-<img src="https://github.com/user-attachments/assets/bd3c1f54-384a-45bb-ae9a-4632b19dbb3c" width="100%">
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/45123f007c79aa8d0c8d9b11b3ff72d6bf4744c7/Assets/Star%20Light%20Line.gif" width="100%">
 ```
 <br>
 
