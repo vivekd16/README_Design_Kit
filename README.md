@@ -695,9 +695,21 @@
 
 <br>
 
+</details>
+
 ---
 
 
+<details>
+<summary><h2>Emojis and Animations</h2></summary>
 
 
-</details>
+<h3>Rabit Happy</h3> 
+<img src = "https://github.com/user-attachments/assets/114ed1b0-80a5-4f1a-848c-a2e81bf48769" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/user-attachments/assets/114ed1b0-80a5-4f1a-848c-a2e81bf48769" width="75px" height="75">
+```
+<br>
+
+---
