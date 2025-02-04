@@ -604,10 +604,10 @@
 
 
 <h3>RGB Line Thick</h3> 
-<img src="https://github.com/user-attachments/assets/8ef43d13-14aa-4f76-914a-dac15f0a212b" width="100%" />
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
 
 ```bash
-<img src="https://github.com/user-attachments/assets/8ef43d13-14aa-4f76-914a-dac15f0a212b" width="100%" />
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
 ```
 <br>
 
