@@ -781,6 +781,17 @@
 ---
 
 
+<h3>Bug</h3> 
+<img src = "https://github.com/user-attachments/assets/2fd00a5c-e91e-4a91-863b-7882189780ef" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/user-attachments/assets/2fd00a5c-e91e-4a91-863b-7882189780ef" width="75px" height="75">
+```
+<br>
+
+---
+
+
 <h3>Rabit Happy</h3> 
 <img src = "https://github.com/user-attachments/assets/114ed1b0-80a5-4f1a-848c-a2e81bf48769" width="75px" height="75">
  
