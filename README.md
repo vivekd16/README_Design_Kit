@@ -1,4 +1,4 @@
-<h3>Flame</h3> 
+<h3>Kyubey</h3> 
 <img src = "https://github.com/user-attachments/assets/71922b6c-8319-47a9-8c5a-1cfcf136dc78" width="75px" height="75">
  
 ```bash
