@@ -581,10 +581,10 @@
 <summary><h2>Lines and Waves</h2></summary>
 
 <h3>RGB Line Thin</h3> 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" /> 
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/ff67bec3b85c96bfeb4406e7d9d4b593147d16c5/Assets/RGB%20Line%20Thin.gif" width="1000" height="2" /> 
 
 ```bash
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+ <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/ff67bec3b85c96bfeb4406e7d9d4b593147d16c5/Assets/RGB%20Line%20Thin.gif" width="1000" height="2" />
 ```
 
 <br>
