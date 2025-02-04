@@ -686,7 +686,7 @@
 ---
 
 
-<h3>Wing Left</h3> 
+<h3>Wing Right</h3> 
 <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png"> 
 
 ```bash
