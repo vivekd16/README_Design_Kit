@@ -1,3 +1,15 @@
+<h3>Brain</h3> 
+<img src = "https://github.com/user-attachments/assets/e27a79a2-fbb4-4bcd-a2ec-8327426f752e" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/user-attachments/assets/e27a79a2-fbb4-4bcd-a2ec-8327426f752e" width="75px" height="75">
+```
+<br>
+
+---
+
+
+
 <h3>Comet</h3> 
 <img src = "https://github.com/user-attachments/assets/580afc0a-942d-4457-a5b4-656bbf93cbf2" width="75px" height="75">
  
