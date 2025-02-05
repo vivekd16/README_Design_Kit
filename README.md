@@ -11,11 +11,11 @@
 
 
 
-<h3>Flexed Biceps</h3> 
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/1e8184a44321696d525db21948edc79a2426b27d/Assets/Flexed%20Biceps.png" width="75px" height="75">
+<h3>Comet</h3> 
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/1e8184a44321696d525db21948edc79a2426b27d/Assets/Comet.png" width="75px" height="75">
  
 ```bash
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/1e8184a44321696d525db21948edc79a2426b27d/Assets/Flexed%20Biceps.png" width="75px" height="75">
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/1e8184a44321696d525db21948edc79a2426b27d/Assets/Comet.png" width="75px" height="75">
 ```
 <br>
 
