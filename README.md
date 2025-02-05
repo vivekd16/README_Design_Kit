@@ -1,3 +1,38 @@
+<h3>Brain</h3> 
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/8bd29cfac721558293f4a9f446d88a4b45c46223/Assets/Brain.png" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/8bd29cfac721558293f4a9f446d88a4b45c46223/Assets/Brain.png" width="75px" height="75">
+```
+<br>
+
+---
+
+
+<h3>Brain</h3> 
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/8bd29cfac721558293f4a9f446d88a4b45c46223/Assets/Brain.png" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/8bd29cfac721558293f4a9f446d88a4b45c46223/Assets/Brain.png" width="75px" height="75">
+```
+<br>
+
+---
+
+
+
+<h3>Brain</h3> 
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/8bd29cfac721558293f4a9f446d88a4b45c46223/Assets/Brain.png" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/8bd29cfac721558293f4a9f446d88a4b45c46223/Assets/Brain.png" width="75px" height="75">
+```
+<br>
+
+---
+
+
+
 <h3>Bug</h3> 
 <img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/8bd29cfac721558293f4a9f446d88a4b45c46223/Assets/Bug.png" width="75px" height="75">
  
