@@ -9,6 +9,40 @@
 ---
 
 
+<h3>Man Technologist</h3> 
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/3892af4a12972ede602e19b35c01fa209d8bfd9f/Assets/Man%20Technologist.png" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/3892af4a12972ede602e19b35c01fa209d8bfd9f/Assets/Man%20Technologist.png" width="75px" height="75">
+```
+<br>
+
+---
+
+
+
+<h3>Man Technologist</h3> 
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/3892af4a12972ede602e19b35c01fa209d8bfd9f/Assets/Man%20Technologist.png" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/3892af4a12972ede602e19b35c01fa209d8bfd9f/Assets/Man%20Technologist.png" width="75px" height="75">
+```
+<br>
+
+---
+
+
+<h3>Man Technologist</h3> 
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/3892af4a12972ede602e19b35c01fa209d8bfd9f/Assets/Man%20Technologist.png" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/3892af4a12972ede602e19b35c01fa209d8bfd9f/Assets/Man%20Technologist.png" width="75px" height="75">
+```
+<br>
+
+---
+
+
 
 
 <h3>Comet</h3> 
