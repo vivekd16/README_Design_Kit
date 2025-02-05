@@ -829,3 +829,12 @@
 ---
 
 
+<h3>Confused Face</h3> 
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/beb70163ec5b93d0acf865b4a58851b753844366/Assets/Confused%20Face.png" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/beb70163ec5b93d0acf865b4a58851b753844366/Assets/Confused%20Face.png" width="75px" height="75">
+```
+<br>
+
+---
