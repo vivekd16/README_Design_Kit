@@ -22,11 +22,11 @@
 
 
 
-<h3>Heart and Fire</h3> 
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/3892af4a12972ede602e19b35c01fa209d8bfd9f/Assets/Heart%20and%20Fire.png" width="75px" height="75">
+<h3>Spiral</h3> 
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/d9992ffc7f730e9a7f52f28e29cbc4262ba36345/Assets/Spiral.png" width="75px" height="75">
  
 ```bash
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/3892af4a12972ede602e19b35c01fa209d8bfd9f/Assets/Heart%20and%20Fire.png" width="75px" height="75">
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/d9992ffc7f730e9a7f52f28e29cbc4262ba36345/Assets/Spiral.png" width="75px" height="75">
 ```
 <br>
 
