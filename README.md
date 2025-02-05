@@ -1,198 +1,3 @@
-<h3>Musical Notes</h3> 
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/7425c4548ea3e506d3c671fb5098d3cd6d7ca43a/Assets/Musical%20Notes.png" width="75px" height="75">
- 
-```bash
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/7425c4548ea3e506d3c671fb5098d3cd6d7ca43a/Assets/Musical%20Notes.png" width="75px" height="75">
-```
-<br>
-
----
-
-
-<h3>Roboto</h3> 
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/7425c4548ea3e506d3c671fb5098d3cd6d7ca43a/Assets/Roboto.png" width="75px" height="75">
- 
-```bash
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/7425c4548ea3e506d3c671fb5098d3cd6d7ca43a/Assets/Roboto.png" width="75px" height="75">
-```
-<br>
-
----
-
-
-
-<h3>Rocket</h3> 
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/d9992ffc7f730e9a7f52f28e29cbc4262ba36345/Assets/Rocket.png" width="75px" height="75">
- 
-```bash
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/d9992ffc7f730e9a7f52f28e29cbc4262ba36345/Assets/Rocket.png" width="75px" height="75">
-```
-<br>
-
----
-
-
-
-<h3>Spiral</h3> 
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/d9992ffc7f730e9a7f52f28e29cbc4262ba36345/Assets/Spiral.png" width="75px" height="75">
- 
-```bash
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/d9992ffc7f730e9a7f52f28e29cbc4262ba36345/Assets/Spiral.png" width="75px" height="75">
-```
-<br>
-
----
-
-
-<h3>Star</h3> 
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/d9992ffc7f730e9a7f52f28e29cbc4262ba36345/Assets/Star.png" width="75px" height="75">
- 
-```bash
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/d9992ffc7f730e9a7f52f28e29cbc4262ba36345/Assets/Star.png" width="75px" height="75">
-```
-<br>
-
----
-
-
-<h3>Heart and Fire</h3> 
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/3892af4a12972ede602e19b35c01fa209d8bfd9f/Assets/Heart%20and%20Fire.png" width="75px" height="75">
- 
-```bash
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/3892af4a12972ede602e19b35c01fa209d8bfd9f/Assets/Heart%20and%20Fire.png" width="75px" height="75">
-```
-<br>
-
----
-
-
-<h3>Hot Cup</h3> 
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/3892af4a12972ede602e19b35c01fa209d8bfd9f/Assets/Hot%20Cup.png" width="75px" height="75">
- 
-```bash
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/3892af4a12972ede602e19b35c01fa209d8bfd9f/Assets/Hot%20Cup.png" width="75px" height="75">
-```
-<br>
-
----
-
-
-
-<h3>Hourglass</h3> 
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/3892af4a12972ede602e19b35c01fa209d8bfd9f/Assets/Hourglass.png" width="75px" height="75">
- 
-```bash
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/3892af4a12972ede602e19b35c01fa209d8bfd9f/Assets/Hourglass.png" width="75px" height="75">
-```
-<br>
-
----
-
-
-<h3>Man Technologist</h3> 
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/3892af4a12972ede602e19b35c01fa209d8bfd9f/Assets/Man%20Technologist.png" width="75px" height="75">
- 
-```bash
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/3892af4a12972ede602e19b35c01fa209d8bfd9f/Assets/Man%20Technologist.png" width="75px" height="75">
-```
-<br>
-
----
-
-
-
-
-<h3>Comet</h3> 
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/1e8184a44321696d525db21948edc79a2426b27d/Assets/Comet.png" width="75px" height="75">
- 
-```bash
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/1e8184a44321696d525db21948edc79a2426b27d/Assets/Comet.png" width="75px" height="75">
-```
-<br>
-
----
-
-
-
-<h3>Eyes</h3> 
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/1e8184a44321696d525db21948edc79a2426b27d/Assets/Eyes.png" width="75px" height="75">
- 
-```bash
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/1e8184a44321696d525db21948edc79a2426b27d/Assets/Eyes.png" width="75px" height="75">
-```
-<br>
-
----
-
-
-
-<h3>Flame</h3> 
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/1e8184a44321696d525db21948edc79a2426b27d/Assets/Flame.png" width="75px" height="75">
- 
-```bash
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/1e8184a44321696d525db21948edc79a2426b27d/Assets/Flame.png" width="75px" height="75">
-```
-<br>
-
----
-
-
-
-<h3>Flexed Biceps</h3> 
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/1e8184a44321696d525db21948edc79a2426b27d/Assets/Flexed%20Biceps.png" width="75px" height="75">
- 
-```bash
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/1e8184a44321696d525db21948edc79a2426b27d/Assets/Flexed%20Biceps.png" width="75px" height="75">
-```
-<br>
-
----
-
-
-<h3>Alien Monster</h3> 
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/8bd29cfac721558293f4a9f446d88a4b45c46223/Assets/Alien%20Monster.png" width="75px" height="75">
- 
-```bash
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/8bd29cfac721558293f4a9f446d88a4b45c46223/Assets/Alien%20Monster.png" width="75px" height="75">
-```
-<br>
-
----
-
-
-
-<h3>Brain</h3> 
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/8bd29cfac721558293f4a9f446d88a4b45c46223/Assets/Brain.png" width="75px" height="75">
- 
-```bash
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/8bd29cfac721558293f4a9f446d88a4b45c46223/Assets/Brain.png" width="75px" height="75">
-```
-<br>
-
----
-
-
-
-<h3>Bug</h3> 
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/8bd29cfac721558293f4a9f446d88a4b45c46223/Assets/Bug.png" width="75px" height="75">
- 
-```bash
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/8bd29cfac721558293f4a9f446d88a4b45c46223/Assets/Bug.png" width="75px" height="75">
-```
-<br>
-
----
-
-
-
-
-
-
-
-
-
-
-
 <h1 align="center"> ReadmeDesignKit </h1>
 
 <details>
@@ -1046,7 +851,6 @@
 ---
 
 
-
 <h3>Firm Hand Waving</h3> 
 <img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/664b912c007df30986846e67f4b42c9439fc8737/Assets/Firm%20Hand%20Waving.png" width="75px" height="75">
  
@@ -1076,5 +880,184 @@
 <img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/d9992ffc7f730e9a7f52f28e29cbc4262ba36345/Assets/Writing.png" width="75px" height="75">
 ```
 <br>
+
+---
+
+
+<h3>Musical Notes</h3> 
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/7425c4548ea3e506d3c671fb5098d3cd6d7ca43a/Assets/Musical%20Notes.png" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/7425c4548ea3e506d3c671fb5098d3cd6d7ca43a/Assets/Musical%20Notes.png" width="75px" height="75">
+```
+<br>
+
+---
+
+
+<h3>Roboto</h3> 
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/7425c4548ea3e506d3c671fb5098d3cd6d7ca43a/Assets/Roboto.png" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/7425c4548ea3e506d3c671fb5098d3cd6d7ca43a/Assets/Roboto.png" width="75px" height="75">
+```
+<br>
+
+---
+
+
+<h3>Rocket</h3> 
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/d9992ffc7f730e9a7f52f28e29cbc4262ba36345/Assets/Rocket.png" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/d9992ffc7f730e9a7f52f28e29cbc4262ba36345/Assets/Rocket.png" width="75px" height="75">
+```
+<br>
+
+---
+
+
+<h3>Spiral</h3> 
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/d9992ffc7f730e9a7f52f28e29cbc4262ba36345/Assets/Spiral.png" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/d9992ffc7f730e9a7f52f28e29cbc4262ba36345/Assets/Spiral.png" width="75px" height="75">
+```
+<br>
+
+---
+
+
+<h3>Star</h3> 
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/d9992ffc7f730e9a7f52f28e29cbc4262ba36345/Assets/Star.png" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/d9992ffc7f730e9a7f52f28e29cbc4262ba36345/Assets/Star.png" width="75px" height="75">
+```
+<br>
+
+---
+
+
+<h3>Heart and Fire</h3> 
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/3892af4a12972ede602e19b35c01fa209d8bfd9f/Assets/Heart%20and%20Fire.png" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/3892af4a12972ede602e19b35c01fa209d8bfd9f/Assets/Heart%20and%20Fire.png" width="75px" height="75">
+```
+<br>
+
+---
+
+
+<h3>Hot Cup</h3> 
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/3892af4a12972ede602e19b35c01fa209d8bfd9f/Assets/Hot%20Cup.png" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/3892af4a12972ede602e19b35c01fa209d8bfd9f/Assets/Hot%20Cup.png" width="75px" height="75">
+```
+<br>
+
+---
+
+
+<h3>Hourglass</h3> 
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/3892af4a12972ede602e19b35c01fa209d8bfd9f/Assets/Hourglass.png" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/3892af4a12972ede602e19b35c01fa209d8bfd9f/Assets/Hourglass.png" width="75px" height="75">
+```
+<br>
+
+---
+
+
+<h3>Man Technologist</h3> 
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/3892af4a12972ede602e19b35c01fa209d8bfd9f/Assets/Man%20Technologist.png" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/3892af4a12972ede602e19b35c01fa209d8bfd9f/Assets/Man%20Technologist.png" width="75px" height="75">
+```
+<br>
+
+---
+
+
+<h3>Comet</h3> 
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/1e8184a44321696d525db21948edc79a2426b27d/Assets/Comet.png" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/1e8184a44321696d525db21948edc79a2426b27d/Assets/Comet.png" width="75px" height="75">
+```
+<br>
+
+---
+
+
+<h3>Eyes</h3> 
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/1e8184a44321696d525db21948edc79a2426b27d/Assets/Eyes.png" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/1e8184a44321696d525db21948edc79a2426b27d/Assets/Eyes.png" width="75px" height="75">
+```
+<br>
+
+---
+
+
+<h3>Flame</h3> 
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/1e8184a44321696d525db21948edc79a2426b27d/Assets/Flame.png" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/1e8184a44321696d525db21948edc79a2426b27d/Assets/Flame.png" width="75px" height="75">
+```
+<br>
+
+---
+
+
+<h3>Flexed Biceps</h3> 
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/1e8184a44321696d525db21948edc79a2426b27d/Assets/Flexed%20Biceps.png" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/1e8184a44321696d525db21948edc79a2426b27d/Assets/Flexed%20Biceps.png" width="75px" height="75">
+```
+<br>
+
+---
+
+
+<h3>Alien Monster</h3> 
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/8bd29cfac721558293f4a9f446d88a4b45c46223/Assets/Alien%20Monster.png" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/8bd29cfac721558293f4a9f446d88a4b45c46223/Assets/Alien%20Monster.png" width="75px" height="75">
+```
+<br>
+
+---
+
+
+<h3>Brain</h3> 
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/8bd29cfac721558293f4a9f446d88a4b45c46223/Assets/Brain.png" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/8bd29cfac721558293f4a9f446d88a4b45c46223/Assets/Brain.png" width="75px" height="75">
+```
+<br>
+
+---
+
+
+<h3>Bug</h3> 
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/8bd29cfac721558293f4a9f446d88a4b45c46223/Assets/Bug.png" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/8bd29cfac721558293f4a9f446d88a4b45c46223/Assets/Bug.png" width="75px" height="75">
+```
+<br>
+
+
+</details>
 
 ---
