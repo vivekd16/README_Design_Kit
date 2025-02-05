@@ -732,3 +732,22 @@
 
 ---
 
+
+<details>
+<summary><h2>Animations</h2></summary>
+
+<h3>Gmail Thug</h3> 
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/4bd65340f9697f050c2b121dcf6adad5b1faf419/Assets/Gmail%20Thug.gif" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/4bd65340f9697f050c2b121dcf6adad5b1faf419/Assets/Gmail%20Thug.gif" width="75px" height="75">
+```
+<br>
+
+---
+
+
+
+</details>
+
+---
