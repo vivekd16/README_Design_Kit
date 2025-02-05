@@ -780,6 +780,18 @@
 ---
 
 
+<h3>Professional Handshake</h3> 
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/726b586734064d91ba689f63041b3f87a7c1a36d/Assets/Professional%20Handshake.gif" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/726b586734064d91ba689f63041b3f87a7c1a36d/Assets/Professional%20Handshake.gif" width="75px" height="75">
+```
+<br>
+
+---
+
+
+
 
 </details>
 
