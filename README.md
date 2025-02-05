@@ -838,3 +838,15 @@
 <br>
 
 ---
+
+
+
+<h3>Firm Hand Waving</h3> 
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/664b912c007df30986846e67f4b42c9439fc8737/Assets/Firm%20Hand%20Waving.png" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/664b912c007df30986846e67f4b42c9439fc8737/Assets/Firm%20Hand%20Waving.png" width="75px" height="75">
+```
+<br>
+
+---
