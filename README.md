@@ -1,3 +1,14 @@
+<h3>Musical Notes</h3> 
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/7425c4548ea3e506d3c671fb5098d3cd6d7ca43a/Assets/Musical%20Notes.png" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/7425c4548ea3e506d3c671fb5098d3cd6d7ca43a/Assets/Musical%20Notes.png" width="75px" height="75">
+```
+<br>
+
+---
+
+
 <h3>Roboto</h3> 
 <img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/7425c4548ea3e506d3c671fb5098d3cd6d7ca43a/Assets/Roboto.png" width="75px" height="75">
  
