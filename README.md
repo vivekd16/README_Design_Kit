@@ -769,6 +769,18 @@
 ---
 
 
+<h3>Kyubey</h3> 
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/db72bcb2057105d8f0df1171c30e27ad5acb5084/Assets/Kyubey.gif" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/db72bcb2057105d8f0df1171c30e27ad5acb5084/Assets/Kyubey.gif" width="75px" height="75">
+```
+<br>
+
+---
+
+
+
 </details>
 
 ---
