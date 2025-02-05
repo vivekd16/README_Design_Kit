@@ -9,6 +9,55 @@
 ---
 
 
+
+
+<h3>Flexed Biceps</h3> 
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/1e8184a44321696d525db21948edc79a2426b27d/Assets/Flexed%20Biceps.png" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/1e8184a44321696d525db21948edc79a2426b27d/Assets/Flexed%20Biceps.png" width="75px" height="75">
+```
+<br>
+
+---
+
+
+
+<h3>Flexed Biceps</h3> 
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/1e8184a44321696d525db21948edc79a2426b27d/Assets/Flexed%20Biceps.png" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/1e8184a44321696d525db21948edc79a2426b27d/Assets/Flexed%20Biceps.png" width="75px" height="75">
+```
+<br>
+
+---
+
+
+
+<h3>Flexed Biceps</h3> 
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/1e8184a44321696d525db21948edc79a2426b27d/Assets/Flexed%20Biceps.png" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/1e8184a44321696d525db21948edc79a2426b27d/Assets/Flexed%20Biceps.png" width="75px" height="75">
+```
+<br>
+
+---
+
+
+
+<h3>Flexed Biceps</h3> 
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/1e8184a44321696d525db21948edc79a2426b27d/Assets/Flexed%20Biceps.png" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/1e8184a44321696d525db21948edc79a2426b27d/Assets/Flexed%20Biceps.png" width="75px" height="75">
+```
+<br>
+
+---
+
+
 <h3>Alien Monster</h3> 
 <img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/8bd29cfac721558293f4a9f446d88a4b45c46223/Assets/Alien%20Monster.png" width="75px" height="75">
  
