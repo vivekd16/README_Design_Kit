@@ -332,10 +332,10 @@ To use these elements, copy the provided code below each section and replace **"
 
 
 <h3>Repo Details</h3> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur-Pagote\&repo=README_Design_Kit\&theme=jolly"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur-Pagote&repo=README_Design_Kit&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000"/>
  
 ```bash
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur-Pagote\&repo=README_Design_Kit\&theme=jolly"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mayur-Pagote&repo=README_Design_Kit&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000"/>
 ```
 
 <br>
