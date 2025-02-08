@@ -718,6 +718,8 @@ To use these elements, copy the provided code below each section and replace **"
 <details>
 <summary><h2>GitAnimals</h2></summary>
 
+Note: To own a pet or learn more about this, please refer to this link https://github.com/git-goods/gitanimals.
+
 <h3>Line Mode</h3> 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Mayur-Pagote&utm_content=line">
   <img
