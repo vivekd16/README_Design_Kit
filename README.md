@@ -1178,7 +1178,9 @@ To use these elements, copy the provided code below each section and replace **"
 <a href="https://github.com/brunobritodev" target="_blank">Bruno Brito</a>
  <br>
 <a href="https://github.com/denvercoder1" target="_blank">Jonah Lawrence</a>
-<br>
+ <br>
+<a href="https://github.com/git-goods" target="_blank">git-goods</a>
+ <br>
  
 </details>
 
