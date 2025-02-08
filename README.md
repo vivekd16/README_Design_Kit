@@ -1077,12 +1077,26 @@ To use these elements, copy the provided code below each section and replace **"
 <details>
 <summary><h2>Inspiration</h2></summary>
 <a href="https://github.com/Tarikul-Islam-Anik" target="_blank">Tarikul Islam Anik</a>
+ <br>
 <a href="https://github.com/anuraghazra" target="_blank">Anurag Hazra</a>
+ <br>
 <a href="https://github.com/ashutosh00710" target="_blank">Ashutosh Dwivedi</a>
+ <br>
 <a href="https://github.com/rahul-jha98" target="_blank">Rahul Jha</a>
+ <br>
 <a href="https://github.com/shravan20" target="_blank">shravan || श्रvan</a>
+ <br>
 <a href="https://github.com/absphreak" target="_blank">Abhinav Sharma</a>
+ <br>
 <a href="https://github.com/nastyox" target="_blank">nastyox</a>
+ <br>
 <a href="https://github.com/kyechan99" target="_blank">kyechan99</a>
+ <br>
 <a href="https://github.com/brunobritodev" target="_blank">Bruno Brito</a>
+ <br>
 <a href="https://github.com/denvercoder1" target="_blank">Jonah Lawrence</a>
+<br>
+ 
+</details>
+
+---
