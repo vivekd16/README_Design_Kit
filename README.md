@@ -1,4 +1,4 @@
-<h1 align="center"> ReadmeDesignKit </h1>
+<h1 align="center"> Readme Design Kit </h1>
 
 This README design kit consists of various elements to enhance your README profile, including:  
 
