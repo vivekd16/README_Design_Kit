@@ -716,6 +716,89 @@ To use these elements, copy the provided code below each section and replace **"
 
 
 <details>
+<summary><h2>GitAnimals</h2></summary>
+
+<h3>Line Mode</h3> 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Mayur-Pagote&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/Mayur-Pagote"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
+```bash
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Mayur-Pagote&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/Mayur-Pagote"
+    width="600"
+    height="120"
+  />
+</a>
+  
+```
+
+<br>
+
+---
+
+<h3>Farm Mode</h3> 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Mayur-Pagote&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Mayur-Pagote"
+  width="600"
+  height="300"
+/>
+</a>
+
+```bash
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Mayur-Pagote&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Mayur-Pagote"
+  width="600"
+  height="300"
+/>
+</a>
+```
+
+<br>
+
+---
+
+
+<h3>Guild Mode</h3> 
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/673932991743754174/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
+
+```bash
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/673932991743754174/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
+```
+
+<br>
+
+</details>
+
+---
+
+
+
+
+<details>
 <summary><h2>Decorations</h2></summary>
 
 <h3>Wing Left</h3> 
