@@ -1,5 +1,15 @@
 <h1 align="center"> ReadmeDesignKit </h1>
 
+This README design kit consists of various elements to enhance your README profile, including:  
+
+Contribution Graph, Stats Cards, Language Cards, Repository Details Cards, Coding Platform Stats Cards, Profile View Counters, Quotes and Jokes Cards, Lines and Waves, Decorations and Animations.
+
+Simply click on a title to expand the dropdown menu.  
+
+To use these elements, copy the provided code below each section and replace **"Mayur-Pagote"** with your GitHub username.
+
+---
+
 <details>
 <summary><h2>Contribution Graphs</h2></summary>
 
