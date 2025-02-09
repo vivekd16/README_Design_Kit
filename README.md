@@ -343,6 +343,19 @@ To use these elements, copy the provided code below each section and replace **"
 ---
 
 
+<h3>Contributors</h3> 
+<img src="https://contributors-img.web.app/image?repo=Mayur-Pagote/README_Design_Kit"/>
+ 
+```bash
+<img src="https://contributors-img.web.app/image?repo=Mayur-Pagote/README_Design_Kit"/>
+```
+
+<br>
+
+---
+
+
+
 <h3>Stargazers - Light</h3> 
 <img src="https://reporoster.com/stars/Mayur-Pagote/README_Design_Kit"/>
  
