@@ -401,6 +401,15 @@ To use these elements, copy the provided code below each section and replace **"
 
 <br>
 
+<h3>Contributor List</h3> 
+<img src="https://api.vaunt.dev/v1/github/entities/Mayur-Pagote/repositories/README_Design_Kit/contributors?format=svg&limit=54" width="700" height="250" />
+
+```bash
+<img src="https://api.vaunt.dev/v1/github/entities/Mayur-Pagote/repositories/README_Design_Kit/contributors?format=svg&limit=54" width="700" height="250" />
+```
+
+<br>
+
 </details>
 
 ---
