@@ -86,8 +86,6 @@ To use these elements, copy the provided code below each section and replace **"
 ```
 <br>
 
----
-
 
 </details>
 
