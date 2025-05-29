@@ -71,3 +71,30 @@ Below are some sample images and GIFs available in the app:
 
 ## 📝 License
 MIT
+
+## How to contribute if you can't push directly
+
+If you can't commit directly to this repo, follow these steps:
+
+1. **Fork the repository** on GitHub (click the "Fork" button at the top right of the repo page).
+2. **Add your fork as a remote** in your codespace:
+   ```bash
+   git remote add fork https://github.com/<your-username>/<repo-name>.git
+   ```
+   Replace `<your-username>` and `<repo-name>` with your GitHub username and the forked repo name.
+3. **Create and checkout a new branch** for your changes:
+   ```bash
+   git checkout -b my-feature-branch
+   ```
+4. **Commit your changes**:
+   ```bash
+   git add .
+   git commit -m "Describe your changes"
+   ```
+5. **Push your branch to your fork**:
+   ```bash
+   git push fork my-feature-branch
+   ```
+6. **Create a Pull Request** from your forked repo to the main repo on GitHub.
+
+This lets you propose your changes for review and merging.
