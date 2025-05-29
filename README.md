@@ -21,16 +21,6 @@ npm run dev
 ```
 - The app will be available at `http://localhost:5173` by default.
 
-### 4. Build for production
-```bash
-npm run build
-```
-
-### 5. Preview the production build
-```bash
-npm run preview
-```
-
 ---
 
 ## 🖼️ Sample Assets
