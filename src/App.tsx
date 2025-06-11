@@ -1,12 +1,29 @@
-import Header from "./components/Header";
+import { Toaster } from "@/components/ui/sonner";
+import { Toaster as Sonner } from "@/components/ui/sonner";
+import { TooltipProvider } from "@/components/ui/tooltip";
+import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Index from "./pages/Index";
+import NotFound from "./pages/NotFound";
 
-export default function App() { 
-  return (
-    <div className="bg-background min-h-screen text-foreground">
-      <Header />
-      <main className="container mx-auto px-6 py-4">
-        <p className="text-lg">Welcome to the README Design Kit!</p>
-      </main>
-    </div>
-  );
-}
+const queryClient = new QueryClient();
+
+const App = () => (
+  <QueryClientProvider client={queryClient}>
+    <TooltipProvider>
+      <Toaster />
+      <Sonner />
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<Index />} />
+
+
+          {/* page not found route */}
+          <Route path="*" element={<NotFound />} />
+        </Routes>
+      </BrowserRouter>
+    </TooltipProvider>
+  </QueryClientProvider>
+);
+
+export default App;
