@@ -88,14 +88,20 @@ export default function Home() {
             transition={{ delay: 0.6, duration: 0.8 }}
             className="flex flex-col sm:flex-row gap-4 mt-8"
           >
-            <Button
-              size="lg"
-              onClick={handleGetStarted}
-              className="group bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white px-8 py-3 text-lg"
-            >
-              Get Started
-              <ArrowRight className="h-5 w-5 ml-2 group-hover:translate-x-1 transition-transform" />
-            </Button> 
+            <h1 className="text-4xl md:text-6xl font-bold text-foreground mb-6">
+              Home Page
+              <br />
+              <span className="text-primary">Coming Soon</span>
+            </h1>
+
+            <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
+              Our team is working hard to bring you an amazing home page experience.
+              In the meantime, explore our other features!
+            </p>
+
+            <div className="text-sm text-muted-foreground">
+              <p>🚧 Under Development | Expected Launch: Soon</p>
+            </div>
           </motion.div>
         </div>
       </div>
