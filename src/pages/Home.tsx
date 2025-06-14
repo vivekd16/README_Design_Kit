@@ -25,10 +25,9 @@ export default function Home() {
           Readme Design Kit
         </div>
         <div className="flex items-center space-x-4">
-          <Button variant="ghost" size="sm">
+          <a target="_blank" rel="noopener noreferrer" href="https://github.com/Mayur-Pagote/README_Design_Kit">
             <Github className="h-4 w-4 mr-2" />
-            GitHub
-          </Button>
+          </a>
           <ThemeToggler />
         </div>
       </nav>
@@ -96,14 +95,7 @@ export default function Home() {
             >
               Get Started
               <ArrowRight className="h-5 w-5 ml-2 group-hover:translate-x-1 transition-transform" />
-            </Button>
-            <Button
-              size="lg"
-              variant="outline"
-              className="px-8 py-3 text-lg backdrop-blur-sm"
-            >
-              View Examples
-            </Button>
+            </Button> 
           </motion.div>
         </div>
       </div>
