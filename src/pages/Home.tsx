@@ -5,7 +5,7 @@ import { motion } from "motion/react";
 import Aurora from "@/components/LandingComponents/Aurora";
 import LiquidChrome from "@/components/LandingComponents/LiquidChrome";
 import { useTheme } from "@/components/theme-provider";
-import { Star } from "lucide-react";
+
 
   export default function Home() {
   const { theme } = useTheme();
