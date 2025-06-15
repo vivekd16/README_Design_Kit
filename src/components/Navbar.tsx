@@ -3,6 +3,8 @@ import { Link, useLocation } from 'react-router-dom';
 import { Button } from '@/components/ui/button';
 import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet';
 import { Badge } from '@/components/ui/badge';
+import logg from './rdk.svg';
+import loggg from './rdkt.svg';
 import { 
   Menu, 
   Home, 
@@ -58,12 +60,18 @@ export default function Navbar() {
           {/* Logo */}
           <div className="flex items-center">
             <Link to="/" className="flex items-center gap-3">
-              <div className="h-8 w-8 bg-primary rounded-lg flex items-center justify-center">
-                <span className="text-primary-foreground font-bold text-sm">RD</span>
-              </div>
-              <span className="font-bold text-xl text-foreground">
-                README Design Kit
-              </span>
+              <img 
+                src={loggg} 
+                alt="Logo" 
+                style={{ height: "30px" }}
+                // className="h-8 w-8 rounded-lg object-cover"
+              />
+
+              <img 
+                src={logg}
+                alt="README Design Ki" 
+                className="h-8 object-contain"
+              />
             </Link>
           </div>
 
@@ -108,12 +116,18 @@ export default function Navbar() {
               <SheetContent side="right" className="w-80">
                 <div className="flex items-center justify-between mb-6">
                   <div className="flex items-center gap-3">
-                    <div className="h-8 w-8 bg-primary rounded-lg flex items-center justify-center">
-                      <span className="text-primary-foreground font-bold text-sm">RD</span>
-                    </div>
-                    <span className="font-bold text-lg text-foreground">
-                      README Design Kit
-                    </span>
+                    <img 
+                      src={loggg} 
+                      alt="Logo" 
+                      style={{ height: "20px" }}
+                      // className="h-8 w-8 rounded-lg object-cover"
+                    />
+
+                    <img 
+                      src={logg} 
+                      alt="README Design Kitt" 
+                      className="h-8 object-contain"
+                    />
                   </div>
                 </div>
 

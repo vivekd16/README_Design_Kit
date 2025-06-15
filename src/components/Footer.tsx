@@ -1,6 +1,8 @@
 import { Link } from 'react-router-dom';
 import { Button } from '@/components/ui/button';
 import { Separator } from '@/components/ui/separator';
+import logg from './rdk.svg';
+import loggg from './rdkt.svg';
 import { 
   Github, 
   Twitter, 
@@ -57,12 +59,18 @@ export default function Footer() {
           {/* Brand Section */}
           <div className="lg:col-span-2">
             <Link to="/" className="flex items-center gap-3 mb-4">
-              <div className="h-8 w-8 bg-primary rounded-lg flex items-center justify-center">
-                <span className="text-primary-foreground font-bold text-sm">RD</span>
-              </div>
-              <span className="font-bold text-xl text-foreground">
-                README Design Kit
-              </span>
+              
+                <img 
+                      src={loggg}
+                      alt="Logo" 
+                      style={{ height: "40px" }}
+                    />
+              
+                    <img 
+                      src={logg}
+                      alt="README Design Kit Logo" 
+                      className="h-8 object-contain"
+                    />
             </Link>
             <p className="text-muted-foreground mb-6 max-w-md">
               Create stunning README files with our comprehensive design toolkit. 
