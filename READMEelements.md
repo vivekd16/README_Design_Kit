@@ -2,7 +2,7 @@
 
 This README design kit consists of various elements to enhance your README profile, including:  
 
-Contribution Graph, Stats Cards, Language Cards, Repository Details Cards, Coding Platform Stats Cards, Profile View Counters, Quotes and Jokes Cards, Lines and Waves, Decorations and Animations.
+Contribution Graph, Stats Cards, Language Cards, Repository Details Cards, Coding Platform Stats Cards, Profile View Counters, Quotes and Jokes Cards, Lines and Waves, Decorations, Animations and Socials.
 
 Simply click on a title to expand the dropdown menu.  
 
@@ -865,6 +865,16 @@ Note: To own a pet or learn more about this, please refer to this link https://g
 <details>
 <summary><h2>Animations</h2></summary>
 
+<h3>Typing SVG</h3>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=First+Line;Second+Line">
+
+```bash
+https://readme-typing-svg.demolab.com/demo/
+```
+<br>
+
+---
+
 <h3>Gmail Thug</h3> 
 <img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/4bd65340f9697f050c2b121dcf6adad5b1faf419/Assets/Gmail%20Thug.gif" width="75px" height="75">
  
@@ -974,6 +984,17 @@ Note: To own a pet or learn more about this, please refer to this link https://g
  
 ```bash
 <img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/beb70163ec5b93d0acf865b4a58851b753844366/Assets/Confused%20Face.png" width="75px" height="75">
+```
+<br>
+
+---
+
+
+<h3>Sleeping Face</h3> 
+<img src = "./public/Assests/sleeping.pmg" width="75px" height="75">
+ 
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/664b912c007df30986846e67f4b42c9439fc8737/Assets/Firm%20Hand%20Waving.png" width="75px" height="75">
 ```
 <br>
 
@@ -1193,9 +1214,100 @@ Note: To own a pet or learn more about this, please refer to this link https://g
 
 
 <details>
+<summary><h2>Socials</h2></summary>
+
+<h3>Animated LinkedIn</h3>
+<img src="./public/Assets/linkedin.gif" width="100">
+
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/linkedin.gif" width="100">
+```
+<br>
+
+---
+
+
+<h3>Animated Instagram</h3>
+<img src="./public/Assets/instagram.gif" width="100">
+
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/instagram.gif" width="100">
+```
+<br>
+
+---
+
+
+<h3>Animated Discord</h3>
+<img src="./public/Assets/discord.gif" width="100">
+
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/discord.gif" width="100">
+```
+<br>
+
+---
+
+
+<h3>Animated Facebook</h3>
+<img src="./public/Assets/facebook.gif" width="100">
+
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/facebook.gif" width="100">
+```
+<br>
+
+---
+
+
+<h3>LinkedIn</h3>
+<img src="./public/Assets/linkedin-1.png" width="100">
+
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/linkedin-1.png" width="100">
+```
+<br>
+
+---
+
+
+<h3>Instagram</h3>
+<img src="./public/Assets/instagram-1.webp" width="100">
+
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/instagram-1.webp" width="100">
+```
+<br>
+
+---
+
+
+<h3>Discord</h3>
+<img src="./public/Assets/discord-1.png" width="100">
+
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/discord-1.png" width="100">
+```
+<br>
+
+---
+
+
+<h3>Facebook</h3>
+<img src="./public/Assets/facebook-1.png" width="100">
+
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/facebook-1.png" width="100">
+```
+<br>
+
+---
+
+<details>
 <summary><h2>Inspiration</h2></summary>
  
 - Tarikul Islam Anik
+- Jonah Lawrence
 - Anurag Hazra
 - Ashutosh Dwivedi
 - Rahul Jha
