@@ -2,7 +2,6 @@ import { Link } from 'react-router-dom';
 import { Button } from '@/components/ui/button';
 import { Separator } from '@/components/ui/separator';
 import logg from './rdk.svg';
-import loggg from './rdkt.svg';
 import { 
   Github, 
   Twitter, 
@@ -59,13 +58,6 @@ export default function Footer() {
           {/* Brand Section */}
           <div className="lg:col-span-2">
             <Link to="/" className="flex items-center gap-3 mb-4">
-              
-                <img 
-                      src={loggg}
-                      alt="Logo" 
-                      style={{ height: "40px" }}
-                    />
-              
                     <img 
                       src={logg}
                       alt="README Design Kit Logo" 
