@@ -990,16 +990,81 @@ https://readme-typing-svg.demolab.com/demo/
 ---
 
 
-<h3>Sleeping Face</h3> 
-<img src = "./public/Assests/sleeping.pmg" width="75px" height="75">
- 
+<h3>Sleeping Face</h3>
+<img src="./public/Assets/sleeping.png" width="75px" height="75">
+
 ```bash
-<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/664b912c007df30986846e67f4b42c9439fc8737/Assets/Firm%20Hand%20Waving.png" width="75px" height="75">
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/sleeping.png" width="75px" height="75">
 ```
 <br>
 
 ---
 
+
+<h3>Yawning Face</h3>
+<img src="./public/Assets/Yawn.png" width="75px" height="75">
+
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Yawn.png" width="75px" height="75">
+```
+<br>
+
+---
+
+
+<h3>Shocked Face</h3>
+<img src="./public/Assets/Shocked.png" width="75px" height="75">
+
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Shocked.png" width="75px" height="75">
+```
+<br>
+
+---
+
+
+<h3>Upside-Down Face</h3>
+<img src="./public/Assets/upsidedown.png" width="75px" height="75">
+
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/upsidedown.png" width="75px" height="75">
+```
+<br>
+
+---
+
+
+<h3>Smart Face</h3>
+<img src="./public/Assets/smart.png" width="75px" height="75">
+
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/smart.png" width="75px" height="75">
+```
+<br>
+
+---
+
+
+<h3>Smiling Face</h3>
+<img src="./public/Assets/Smiling.png" width="75px" height="75">
+
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Smiling.png" width="75px" height="75">
+```
+<br>
+
+---
+
+
+<h3>Not Interested</h3>
+<img src="./public/Assets/notinterested.png" width="75px" height="75">
+
+```bash
+<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/notinterested.png" width="75px" height="75">
+```
+<br>
+
+---
 
 <h3>Firm Hand Waving</h3> 
 <img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/664b912c007df30986846e67f4b42c9439fc8737/Assets/Firm%20Hand%20Waving.png" width="75px" height="75">
