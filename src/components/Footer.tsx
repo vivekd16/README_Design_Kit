@@ -57,12 +57,18 @@ export default function Footer() {
           {/* Brand Section */}
           <div className="lg:col-span-2">
             <Link to="/" className="flex items-center gap-3 mb-4">
-              <div className="h-8 w-8 bg-primary rounded-lg flex items-center justify-center">
-                <span className="text-primary-foreground font-bold text-sm">RD</span>
-              </div>
-              <span className="font-bold text-xl text-foreground">
-                README Design Kit
-              </span>
+              
+                <img 
+                      src="/rdkt.svg" 
+                      alt="Logo" 
+                      style={{ height: "40px" }}
+                    />
+              
+              <img 
+                src="/rdk.svg" 
+                alt="README Design Kit Logo" 
+                className="h-8 object-contain"
+              />
             </Link>
             <p className="text-muted-foreground mb-6 max-w-md">
               Create stunning README files with our comprehensive design toolkit. 

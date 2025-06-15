@@ -58,12 +58,17 @@ export default function Navbar() {
           {/* Logo */}
           <div className="flex items-center">
             <Link to="/" className="flex items-center gap-3">
-              <div className="h-8 w-8 bg-primary rounded-lg flex items-center justify-center">
-                <span className="text-primary-foreground font-bold text-sm">RD</span>
-              </div>
-              <span className="font-bold text-xl text-foreground">
-                README Design Kit
-              </span>
+              <img 
+                src="/rdkt.svg" 
+                alt="Logo" 
+                style={{ height: "30px" }}
+              />
+
+              <img 
+                src="/rdk.svg" 
+                alt="README Design Ki" 
+                className="h-8 object-contain"
+              />
             </Link>
           </div>
 
@@ -108,12 +113,17 @@ export default function Navbar() {
               <SheetContent side="right" className="w-80">
                 <div className="flex items-center justify-between mb-6">
                   <div className="flex items-center gap-3">
-                    <div className="h-8 w-8 bg-primary rounded-lg flex items-center justify-center">
-                      <span className="text-primary-foreground font-bold text-sm">RD</span>
-                    </div>
-                    <span className="font-bold text-lg text-foreground">
-                      README Design Kit
-                    </span>
+                    <img 
+                      src="/rdkt.svg" 
+                      alt="Logo" 
+                      style={{ height: "20px" }}
+                    />
+
+                    <img 
+                      src="/rdk.svg" 
+                      alt="README Design Kitt" 
+                      className="h-8 object-contain"
+                    />
                   </div>
                 </div>
 
