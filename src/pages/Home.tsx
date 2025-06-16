@@ -14,7 +14,7 @@ import { useTheme } from "@/components/theme-provider";
     <div className="w-full min-h-screen flex flex-col mb-5 ">
       <div className="w-full  flex flex-col flex-1 px-4">
         <div className="flex flex-col items-center justify-center flex-1 relative">
-          <div className="absolute inset-0 -z-10 rounded-b-4xl overflow-hidden">
+          <div className="absolute inset-0 -z-10 rounded-b-[3rem] overflow-hidden">
             {theme === "dark" ? (
               <Aurora colorStops={["#f77f00", "#f4a261", "#ffbe0b"]} />
              
