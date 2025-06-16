@@ -14,6 +14,7 @@ import {
   Star
 } from 'lucide-react';
 import { cn } from '@/lib/utils';
+import { GitHubStarsButton } from '@/components/CustomComps/buttons/github-stars';
 
 const navigation = [
   { name: 'Home', href: '/', icon: Home },
@@ -76,21 +77,7 @@ export default function Navbar() {
 
           {/* Desktop Actions */}
           <div className="hidden md:flex items-center gap-3">
-            <Button variant="ghost" size="sm" asChild>
-              <a 
-                href="https://github.com/Mayur-Pagote/README_Design_Kit" 
-                target="_blank" 
-                rel="noopener noreferrer"
-                className="flex items-center gap-2"
-              >
-                <Github className="h-4 w-4" />
-                GitHub
-              </a>
-            </Button>
-            <Button variant="ghost" size="sm" className="flex items-center gap-2">
-              <Star className="h-4 w-4" />
-              Star
-            </Button>
+            <GitHubStarsButton username="Mayur-Pagote" repo="README_Design_Kit" />
             <Button size="sm" asChild>
               <Link to="/elements">Get Started</Link>
             </Button>
