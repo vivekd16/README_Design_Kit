@@ -12,7 +12,6 @@ Welcome to the **README Design Kit** — your one-stop starter pack for writing 
 
 - [🚀 About the Project](#-about-the-project)
 - [✨ Features](#-features)
-- [📷 Screenshots](#-screenshots)
 - [🛠️ Getting Involved (SSoC S4)](#️-getting-involved-ssoc-s4)
 - [📅 Participated In](#-participated-in)
 - [📄 License](#-license)
@@ -109,7 +108,7 @@ Are you participating in **SSoC Season 4**? Here's how you can contribute:
 This project is licensed under the **MIT License**.  
 You're free to use, modify, and distribute it with attribution.
 
-**📌 Project Admin**: [Mayur Pagot]
+**📌 Project Admin**: [Mayur Pagote](https://github.com/Mayur-Pagote)
 
 ---
 
