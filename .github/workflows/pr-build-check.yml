@@ -11,29 +11,21 @@ jobs:
     name: Vite Build Check
     runs-on: ubuntu-latest
 
-    steps:
-      - name: ⬇️ Checkout code
+    steps:      - name: ⬇️ Checkout code
         uses: actions/checkout@v4
-
-      - name: 🟩 Setup Node.js and PNPM
-        uses: pnpm/action-setup@v3
-        with:
-          version: 8 # or your preferred pnpm version
 
       - name: 🔧 Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20 # or match your project's Node version
-          cache: 'pnpm'
-
-      - name: 📦 Install dependencies
-        run: pnpm install
+          node-version: 20
+          cache: 'npm'      - name: 📦 Install dependencies
+        run: npm ci
 
       - name: 🔨 Build Vite App
         id: vite_build
         run: |
           echo "🔍 Starting Vite build..."
-          if pnpm build; then
+          if npm run build; then
             echo "✅ Vite build completed successfully."
             echo "build_status=success" >> $GITHUB_OUTPUT
           else

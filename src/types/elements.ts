@@ -2,7 +2,7 @@ export interface BaseElement {
   id: string;
   type: string;
   content?: string;
-  style?: Record<string, any>;
+  style?: Record<string, string | number>;
 }
 
 export interface TextElement extends BaseElement {

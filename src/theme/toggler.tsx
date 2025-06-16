@@ -40,16 +40,16 @@ export default function ThemeToggler({ className }: ThemeTogglerProps) {
       default:
         break;
     }
-  };
-
-  const toggleTheme = () => {
-    //@ts-ignore
+  };  const toggleTheme = () => {
+    // eslint-disable-next-line @typescript-eslint/ban-ts-comment
+    // @ts-ignore
     if (!document.startViewTransition) {
       switchTheme();
       return;
     }
 
-    //@ts-ignore
+    // eslint-disable-next-line @typescript-eslint/ban-ts-comment
+    // @ts-ignore
     document.startViewTransition(switchTheme);
   };
 
