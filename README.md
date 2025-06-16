@@ -46,9 +46,11 @@ Are you participating in **SSoC Season 4**? Here's how you can contribute:
 
 ### 📌 Steps to Get Started:
 1. **Fork this repository**
-    > ![screenshot](assets/forking.png)
+    > ![forking](https://github.com/user-attachments/assets/50943716-0dd4-402d-8244-c3a1b3505d79)
+
 2. **Clone the forked repository** to your local machine
-    > ![screenshot](assets/cloning.png)
+    > ![cloning](https://github.com/user-attachments/assets/f7064628-6ea2-42f5-9fee-dac6e8450334)
+
     - OR You can copy the above and run it in your terminal like this:
     ```bash
     git clone the_link
@@ -62,9 +64,11 @@ Are you participating in **SSoC Season 4**? Here's how you can contribute:
     git checkout -b your_branch_name
    ```
 3. **Check the open issues** Visit the original repository and click on the issues tab, then choose the ones labeled `good first issue` or `ssoc` ot `beginner`
-    > ![screenshot](assets/issues.png)
+    > ![issues](https://github.com/user-attachments/assets/550349c4-e0cb-4d19-9370-1a9e558051c3)
+
 4. **Comment to get assigned** to a task
-    > ![screenshot](assets/comments.png)
+    > ![comments](https://github.com/user-attachments/assets/1c144897-9160-457a-8300-cd5b72074e99)
+
 5. **Start editing, make your changes and commit them**
     ```bash
     git add .
@@ -75,7 +79,8 @@ Are you participating in **SSoC Season 4**? Here's how you can contribute:
     git push origin your_branch_name
    ```
 6. **Submit a pull request** with a clear description and always remeber to go through the contribution.md and the guidelines in the repository. Go to your forked repository and click on the pull request tab, then click on the "New pull request" button OR you can click on Compare and Pull Request.
-    > ![screenshot](assets/pullrequest.png)
+    > ![pullrequest](https://github.com/user-attachments/assets/9fe3c0e1-6853-444b-bc15-69dddebf627c)
+
 
 ### 💡 Suggestions for Contributions:
 - Add new README templates (for different tech stacks)
