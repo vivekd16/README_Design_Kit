@@ -75,20 +75,6 @@ export default function PrivacyPolicy() {
           <Separator />
 
           <section>
-            <h2 className="text-2xl font-semibold text-foreground mb-4">Cookies and Storage</h2>
-            <p className="text-muted-foreground mb-4">
-              We use local storage to:
-            </p>
-            <ul className="list-disc pl-6 space-y-2 text-muted-foreground">
-              <li>Save your theme preferences</li>
-              <li>Store your recent templates</li>
-              <li>Remember your last used settings</li>
-            </ul>
-          </section>
-
-          <Separator />
-
-          <section>
             <h2 className="text-2xl font-semibold text-foreground mb-4">Contact</h2>
             <p className="text-muted-foreground">
               If you have any questions about our privacy policy, please contact us at{' '}
