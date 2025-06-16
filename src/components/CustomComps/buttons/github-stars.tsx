@@ -1,3 +1,4 @@
+// @ts-ignore
 'use client';
 
 import * as React from 'react';
@@ -11,6 +12,8 @@ import {
   type HTMLMotionProps,
   type SpringOptions,
   type UseInViewOptions,
+  easeInOut,
+  easeOut,
 } from 'motion/react';
 
 import { cn } from '@/lib/utils';
@@ -41,12 +44,12 @@ const animations = {
   pulse: {
     initial: { scale: 1.2, opacity: 0 },
     animate: { scale: [1.2, 1.8, 1.2], opacity: [0, 0.3, 0] },
-    transition: { duration: 1.2, ease: 'easeInOut' },
+    transition: { duration: 1.2, ease: easeInOut },
   },
   glow: {
     initial: { scale: 1, opacity: 0 },
     animate: { scale: [1, 1.5], opacity: [0.8, 0] },
-    transition: { duration: 0.8, ease: 'easeOut' },
+    transition: { duration: 0.8, ease: easeOut },
   },
   particle: (index: number) => ({
     initial: { x: '50%', y: '50%', scale: 0, opacity: 0 },
@@ -56,7 +59,7 @@ const animations = {
       scale: [0, 1, 0],
       opacity: [0, 1, 0],
     },
-    transition: { duration: 0.8, delay: index * 0.05, ease: 'easeOut' },
+    transition: { duration: 0.8, delay: index * 0.05, ease: easeOut },
   }),
 };
 
@@ -86,7 +89,7 @@ function GitHubStarsButton({
   const springVal = useSpring(motionVal, transition);
   const motionNumberRef = React.useRef(0);
   const isCompletedRef = React.useRef(false);
-  const [, forceRender] = React.useReducer((x) => x + 1, 0);
+  const [, forceRender] = React.useReducer((x: number) => x + 1, 0);
   const [stars, setStars] = React.useState(0);
   const [isCompleted, setIsCompleted] = React.useState(false);
   const [displayParticles, setDisplayParticles] = React.useState(false);
