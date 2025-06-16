@@ -12,7 +12,8 @@ Welcome to the **README Design Kit** — your one-stop starter pack for writing 
 
 - [🚀 About the Project](#-about-the-project)
 - [✨ Features](#-features)
-- [🛠️ Getting Involved (SSoC S4)](#️-getting-involved-ssoc-s4)
+- [� Documentation](#-documentation)
+- [�🛠️ Getting Involved (SSoC S4)](#️-getting-involved-ssoc-s4)
 - [📅 Participated In](#-participated-in)
 - [📄 License](#-license)
 
@@ -39,7 +40,30 @@ This project aims to:
 
 ---
 
-<h2 style="font-family: Helvetica, sans-serif;">🛠️ Getting Involved (SSoC S4)</h2>
+<h2 style="font-family: Helvetica, sans-serif;">� Documentation</h2>
+
+Comprehensive documentation is available to help you understand and contribute to the project:
+
+| 📖 **Guide** | 📝 **Description** |
+|-------------|-------------------|
+| [📚 Documentation Index](./docs/README.md) | Navigate all available documentation |
+| [📘 Setup & Development Guide](./docs/setup.md) | Complete setup instructions and development guidelines |
+| [🏗️ Project Architecture](./docs/architecture.md) | Technical structure and architecture overview |
+| [📂 Files Documentation](./docs/files.md) | Detailed explanation of every file and directory |
+| [🎨 README Elements Library](./READMEelements.md) | Complete collection of README components and examples |
+| [🤝 Contributing Guidelines](./CONTRIBUTING.md) | How to contribute to the project |
+| [📋 Code of Conduct](./CODE_OF_CONDUCT.md) | Community guidelines and standards |
+| [🔒 Security Policy](./SECURITY.md) | Security vulnerability reporting |
+
+**Quick Links for Contributors:**
+- 🚀 [Quick Start Guide](./docs/setup.md#quick-start) - Get running in 5 minutes
+- 🏗️ [Architecture Overview](./docs/architecture.md#overview) - Understand the tech stack
+- 📂 [Project Structure](./docs/files.md#-architecture-overview) - Navigate the codebase
+- 🎨 [Element Examples](./READMEelements.md) - Browse README components
+
+---
+
+<h2 style="font-family: Helvetica, sans-serif;">�🛠️ Getting Involved (SSoC S4)</h2>
 
 Are you participating in **SSoC Season 4**? Here's how you can contribute:
 

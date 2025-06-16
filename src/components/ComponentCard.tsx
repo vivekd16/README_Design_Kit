@@ -14,15 +14,14 @@ interface ComponentCardProps {
 
 export default function ComponentCard({ title, description, imageUrl, codeSnippet, username }: ComponentCardProps) {
 
-  const handleCopyLink = async () => {
-    try {
+  const handleCopyLink = async () => {    try {
       const formattedCode = codeSnippet.replace(/\{username\}/g, username);
       await navigator.clipboard.writeText(formattedCode);
-      toast
       toast(
         `Copied to clipboard!, ${title} code has been copied to your clipboard.`,
       );
     } catch (err) {
+      console.error('Failed to copy to clipboard:', err);
       toast(
         "Failed to copy, Please try again.",
       );
