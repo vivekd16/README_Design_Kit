@@ -30,10 +30,10 @@ export default function Footer() {
       { name: 'API Reference', href: '#', external: true },
     ],
     community: [
-      { name: 'GitHub Discussions', href: '#', external: true },
-      { name: 'Discord Server', href: '#', external: true },
-      { name: 'Feature Requests', href: '#', external: true },
-      { name: 'Bug Reports', href: '#', external: true },
+      { name: 'GitHub Discussions', href: 'https://github.com/Mayur-Pagote/README_Design_Kit/discussions', external: true },
+      { name: 'Discord Server', href: 'https://discord.gg/wnF5jG7U', external: true },
+      { name: 'Feature Requests', href: 'https://github.com/Mayur-Pagote/README_Design_Kit/issues', external: true },
+      { name: 'Bug Reports', href: 'https://github.com/Mayur-Pagote/README_Design_Kit/issues', external: true },
     ],
     company: [
       { name: 'About', href: '#' },
