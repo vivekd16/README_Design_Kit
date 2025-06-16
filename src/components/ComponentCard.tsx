@@ -30,7 +30,7 @@ export default function ComponentCard({ title, description, imageUrl, codeSnippe
   };
 
   return (
-    <div className="bg-card border border-border rounded-lg overflow-hidden hover:shadow-lg transition-all duration-300 hover:scale-105">
+    <div className="relative bg-slate-800/40 border border-slate-700/50 rounded-2xl overflow-hidden backdrop-blur-lg  opacity-80 hover:opacity-100 hover:shadow-lg  hover:shadow-purple-700/40  hover:border-x-purple-600 hover:border-y-purple-600  cursor-text transition-all duration-500 hover:scale-105 group max-w-sm">
       <div className="aspect-video bg-muted flex items-center justify-center p-4">
         <img
           src={imageUrl}
@@ -43,7 +43,7 @@ export default function ComponentCard({ title, description, imageUrl, codeSnippe
         <p className="text-sm text-muted-foreground mb-4">{description}</p>
         <Button
           onClick={handleCopyLink}
-          className="w-full bg-primary hover:bg-primary/90 text-primary-foreground"
+          className="w-full bg-primary hover:bg-primary/60 hover:scale-102 cursor-pointer text-primary-foreground"
         >
           <Copy className="w-4 h-4 mr-2" />
           Copy Code
