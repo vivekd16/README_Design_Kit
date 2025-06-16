@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
-import { 
+import {
   ArrowLeft,
   PanelLeft,
   PanelRight,
@@ -30,7 +30,7 @@ export default function DragDropEditor() {
   };
 
   const handleSaveElement = (editedElement: ElementType) => {
-    setElements(prev => 
+    setElements(prev =>
       prev.map(el => el.id === editedElement.id ? editedElement : el)
     );
     setEditingElement(null);
@@ -63,7 +63,8 @@ export default function DragDropEditor() {
               <span className="text-muted-foreground">•</span>
               <h1 className="text-xl font-semibold">Drag & Drop README Editor</h1>
               <Badge variant="default">Beta</Badge>
-            </div>            <div className="flex items-center gap-2">
+            </div>
+            <div className="flex items-center gap-2">
               <Button
                 variant="outline"
                 size="sm"
@@ -89,8 +90,11 @@ export default function DragDropEditor() {
                 className="flex items-center gap-2"
               >
                 <PanelLeft className="h-4 w-4" />
-                {showPalette ? 'Hide' : 'Show'} Elements
+                <span className="inline-block w-[6.5rem] text-left">
+                  {showPalette ? 'Hide' : 'Show'} Elements
+                </span>
               </Button>
+
               <Button
                 variant="outline"
                 size="sm"
@@ -98,8 +102,11 @@ export default function DragDropEditor() {
                 className="flex items-center gap-2"
               >
                 <PanelRight className="h-4 w-4" />
-                {showPreview ? 'Hide' : 'Show'} Preview
+                <span className="inline-block w-[6.5rem] text-left">
+                  {showPreview ? 'Hide' : 'Show'} Preview
+                </span>
               </Button>
+
             </div>
           </div>
         </div>
