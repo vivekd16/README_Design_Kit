@@ -17,6 +17,7 @@ import {
 } from 'lucide-react';
 import { cn } from '@/lib/utils';
 import { GitHubStarsButton } from '@/components/CustomComps/buttons/github-stars';
+import { ModeToggle } from '@/components/mode-toggle';
 
 const navigation = [
   { name: 'Home', href: '/', icon: Home },
@@ -85,10 +86,9 @@ export default function Navbar() {
             {navigation.map((item) => (
               <NavLink key={item.name} item={item} />
             ))}
-          </div>
-
-          {/* Desktop Actions */}
+          </div>          {/* Desktop Actions */}
           <div className="hidden md:flex items-center gap-3">
+            <ModeToggle />
             <GitHubStarsButton username="Mayur-Pagote" repo="README_Design_Kit" />
             <Button size="sm" asChild>
               <Link to="/elements">Get Started</Link>
@@ -120,10 +120,12 @@ export default function Navbar() {
                   {navigation.map((item) => (
                     <NavLink key={item.name} item={item} mobile />
                   ))}
-                </div>
-
-                {/* Mobile Actions */}
+                </div>                {/* Mobile Actions */}
                 <div className="flex flex-col gap-3 pt-6 border-t border-border">
+                  <div className="flex items-center justify-between mb-2">
+                    <span className="text-sm font-medium">Theme</span>
+                    <ModeToggle />
+                  </div>
                   <Button variant="outline" className="w-full justify-start" asChild>
                     <a 
                       href="https://github.com/Mayur-Pagote/README_Design_Kit" 
