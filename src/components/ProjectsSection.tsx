@@ -4,15 +4,15 @@ import ProjectCard from './ProjectCard';
 import { Link } from 'react-router-dom';
 
 const ProjectsSection: React.FC = () => {
-  const [searchTerm, setSearchTerm] = useState('');
-  const [activeCategory, setActiveCategory] = useState('All Projects');
-  const [submittedProjects, setSubmittedProjects] = useState<Array<any>>(() => {
+  const [searchTerm, setSearchTerm] = useState<string>('');
+  const [activeCategory] = useState<string>('All Projects');
+  const [submittedProjects] = useState<Array<any>>(() => {
     const savedProjects = localStorage.getItem("submittedProjects");
     return savedProjects ? JSON.parse(savedProjects) : [];
   });
 
   const filteredProjects = useMemo(() => {
-    let filtered = Array.isArray(submittedProjects) ? [...submittedProjects] : []; // ✅ Ensure it's always an array
+    let filtered = Array.isArray(submittedProjects) ? [...submittedProjects] : []; 
 
     if (activeCategory !== 'All Projects') {
       filtered = filtered.filter(project => project.category === activeCategory);
@@ -22,7 +22,7 @@ const ProjectsSection: React.FC = () => {
       filtered = filtered.filter(project =>
         project.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
         project.description.toLowerCase().includes(searchTerm.toLowerCase()) ||
-        (Array.isArray(project.tags) ? project.tags.some(tag => tag.toLowerCase().includes(searchTerm.toLowerCase())) : false)
+        (Array.isArray(project.tags) ? project.tags.some((tag: string) => tag.toLowerCase().includes(searchTerm.toLowerCase())) : false)
       );
     }
 
