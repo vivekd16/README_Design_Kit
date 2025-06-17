@@ -11,16 +11,28 @@ import {
   MousePointer, 
   Clock,
   Github,
-  Star
+  Star,
+  Sparkles,
+  Upload
 } from 'lucide-react';
 import { cn } from '@/lib/utils';
 
 const navigation = [
   { name: 'Home', href: '/', icon: Home },
   { name: 'Elements', href: '/elements', icon: Layers },
+  { 
+    name: 'Showcase', 
+    href: '/showcase', 
+    icon: Sparkles, 
+    submenu: [ // ✅ Nested navigation
+      { name: 'Projects', href: '/projects', icon: Layers },
+      { name: 'Submit Project', href: '/submit', icon: Upload },
+    ] 
+  },
   { name: 'Drag & Drop Editor', href: '/drag-drop', icon: MousePointer, badge: 'Beta' },
   { name: 'Coming Soon', href: '/coming-soon', icon: Clock },
 ];
+
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
