@@ -40,22 +40,6 @@ const Hero = () => {
               <TrendingUp className="w-5 h-5 group-hover:scale-110 transition-transform" />
             </button>
           </div>
-
-          {/* Stats */}
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-3xl mx-auto">
-            <div className="text-center">
-              <div className="text-4xl md:text-5xl font-bold mb-2">25+</div>
-              <div className="text-white/70 uppercase tracking-wide text-sm font-medium">Projects</div>
-            </div>
-            <div className="text-center">
-              <div className="text-4xl md:text-5xl font-bold mb-2">15k+</div>
-              <div className="text-white/70 uppercase tracking-wide text-sm font-medium">Downloads</div>
-            </div>
-            <div className="text-center">
-              <div className="text-4xl md:text-5xl font-bold mb-2">500+</div>
-              <div className="text-white/70 uppercase tracking-wide text-sm font-medium">Users</div>
-            </div>
-          </div>
         </div>
       </div>
     </section>
