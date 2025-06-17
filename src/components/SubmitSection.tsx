@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Rocket, Upload, Link, Tag, User, Mail, MessageSquare } from 'lucide-react';
+import { Rocket, Upload, Tag, User, Mail, MessageSquare } from 'lucide-react';
 
 const SubmitSection: React.FC = () => {
   const [formData, setFormData] = useState({
