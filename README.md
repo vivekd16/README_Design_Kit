@@ -66,6 +66,7 @@ Comprehensive documentation is available to help you understand and contribute t
 | [🏗️ Project Architecture](./docs/architecture.md) | Technical structure and architecture overview |
 | [📂 Files Documentation](./docs/files.md) | Detailed explanation of every file and directory |
 | [🎨 README Elements Library](./READMEelements.md) | Complete collection of README components and examples |
+| [🌟 Project Showcase](./docs/showcase.md) | Explore featured projects & submit your own |
 | [🤝 Contributing Guidelines](./CONTRIBUTING.md) | How to contribute to the project |
 | [📋 Code of Conduct](./CODE_OF_CONDUCT.md) | Community guidelines and standards |
 | [🔒 Security Policy](./SECURITY.md) | Security vulnerability reporting |
