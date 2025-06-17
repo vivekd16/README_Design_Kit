@@ -26,6 +26,7 @@ export default function Footer() {
     main: [
       { name: 'Home', href: '/', icon: Home },
       { name: 'Elements', href: '/elements', icon: Layers },
+      { name: 'Project Showcase', href: '/showcase', icon: Layers },
       { name: 'Drag & Drop Editor', href: '/drag-drop', icon: MousePointer },
       { name: 'Coming Soon', href: '/coming-soon', icon: Clock },
     ],

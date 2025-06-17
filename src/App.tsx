@@ -5,6 +5,9 @@ import Home from "./pages/Home";
 import Dashboard from "./pages/Dashboard";
 import Layout from "./components/Layout";
 import Elements from "./pages/Elements";
+import Hero from "./pages/Hero";
+import ProjectsSection from "./components/ProjectsSection";
+import SubmitSection from "./components/SubmitSection";
 import DragDropEditor from "./pages/DragDropEditor";
 import ComingSoon from "./pages/ComingSoon";
 import NotFound from "./pages/NotFound";
@@ -15,8 +18,8 @@ import { Toaster } from './components/ui/sonner'
 
 const queryClient = new QueryClient();
 
-export default function App(){
-  return(
+export default function App() {
+  return (
     <QueryClientProvider client={queryClient}>
       <TooltipProvider>
         <ThemeProvider defaultTheme="system" storageKey="readme-design-kit-theme">
@@ -25,6 +28,9 @@ export default function App(){
               {/* Routes with Layout (navbar + footer) */}
               <Route path="/" element={<Layout><Home /></Layout>} />
               <Route path="/elements" element={<Layout><Elements /></Layout>} />
+              <Route path="/showcase" element={<Layout><Hero /></Layout>} />
+              <Route path="/projects" element={<Layout><ProjectsSection /></Layout>} />
+              <Route path="/submit" element={<Layout><SubmitSection /></Layout>} />
               <Route path="/drag-drop" element={<Layout><DragDropEditor /></Layout>} />
               <Route path="/coming-soon" element={<Layout><ComingSoon /></Layout>} />
               <Route path="/privacy" element={<Layout><PrivacyPolicy /></Layout>} />
