@@ -8,11 +8,12 @@
   </picture>
 </div>
 
-
-
+---
+<div align="center">
 [![MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]()
 [![SSoC](https://img.shields.io/badge/SSoC-S4-blueviolet)]()
+</div>
 
 Welcome to the **README Design Kit** — your one-stop starter pack for writing clean, organized, and beginner-friendly README files for your GitHub projects!
 
