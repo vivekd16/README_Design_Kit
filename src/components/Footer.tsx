@@ -2,6 +2,7 @@ import { Link, useLocation, useNavigate } from 'react-router-dom';
 import { Button } from '@/components/ui/button';
 import { Separator } from '@/components/ui/separator';
 import logg from './rdk.svg';
+import loggd from './rdkd.svg';
 import { 
   Github, 
   Twitter, 
@@ -90,9 +91,14 @@ export default function Footer() {
               aria-label="README Design Kit Home"
             >
               <img 
+                src={loggd}
+                alt="README Design Kit Logo - Light Mode" 
+                className="h-8 object-contain block dark:hidden"
+              />
+              <img 
                 src={logg}
-                alt="README Design Kit Logo" 
-                className="h-8 object-contain"
+                alt="README Design Kit Logo - Dark Mode" 
+                className="h-8 object-contain hidden dark:block"
               />
             </Link>
             <p className="text-muted-foreground mb-6 max-w-md">

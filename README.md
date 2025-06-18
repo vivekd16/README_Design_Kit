@@ -1,8 +1,26 @@
-# 📘 README Design Kit
+![Banner](./bannerr.gif)
 
-[![MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]()
-[![SSoC](https://img.shields.io/badge/SSoC-S4-blueviolet)]()
+<div align="center">
+  <picture>
+    <source srcset="./rdk.svg" media="(prefers-color-scheme: dark)">
+    <source srcset="./rdkd.svg" media="(prefers-color-scheme: light)">
+    <img src="./rdkd.svg" alt="README Design Kit Logo" height="100">
+  </picture>
+</div>
+
+---
+<p align="center">
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/SSoC-S4-blueviolet" alt="SSoC">
+  </a>
+</p>
+
 
 Welcome to the **README Design Kit** — your one-stop starter pack for writing clean, organized, and beginner-friendly README files for your GitHub projects!
 
