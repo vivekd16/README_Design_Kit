@@ -61,7 +61,7 @@ export default function ComingSoon() {
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
-            <Button size="lg" className="text-lg px-8">
+            <Button size="lg" className="text-lg px-8" onClick={() => document.getElementById("stay-in-loop")?.scrollIntoView({ behavior: 'smooth' })}>
               <Bell className="mr-2 h-5 w-5" />
               Get Notified
             </Button>
@@ -119,7 +119,7 @@ export default function ComingSoon() {
       </section>
 
       {/* Newsletter Signup */}
-      <section className="py-20 px-6">
+      <section id="stay-in-loop" className="py-20 px-6">
         <div className="container mx-auto">
           <Card className="max-w-2xl mx-auto text-center">
             <CardHeader>
