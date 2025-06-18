@@ -87,13 +87,13 @@ const SubmitSection: React.FC = () => {
 
   if (submitted) {
     return (
-      <section className="py-20 bg-white">
+      <section className="py-20 bg-white dark:bg-card">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <div className="w-16 h-16 bg-green-100 rounded-full mx-auto mb-6 flex items-center justify-center">
-            <Rocket className="w-8 h-8 text-green-600" />
+          <div className="w-16 h-16 bg-green-100 dark:bg-green-900/30 rounded-full mx-auto mb-6 flex items-center justify-center">
+            <Rocket className="w-8 h-8 text-green-600 dark:text-green-400" />
           </div>
-          <h2 className="text-3xl font-bold text-gray-900 mb-4">Project Submitted Successfully!</h2>
-          <p className="text-lg text-gray-600">
+          <h2 className="text-3xl font-bold text-gray-900 dark:text-foreground mb-4">Project Submitted Successfully!</h2>
+          <p className="text-lg text-gray-600 dark:text-muted-foreground">
             Thank you for sharing your project with the community. We'll review it and get back to you soon.
           </p>
         </div>
