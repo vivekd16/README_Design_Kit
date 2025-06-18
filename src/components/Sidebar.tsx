@@ -8,7 +8,7 @@ interface SidebarProps {
 
 const categories = [
   { id: 'graphs', name: 'Graphs', icon: '📊' },
-  { id: 'cards', name: 'Cards', icon: '🎴' },
+  { id: 'cards', name: 'Stats Cards', icon: '🎴' },
   { id: 'counter', name: 'Counter', icon: '🔢' },
   { id: 'animation', name: 'Animation', icon: '✨' },
   { id: 'emojis', name: 'Emojis', icon: '😊' },
