@@ -55,6 +55,19 @@ The **Project Showcase Page** allows contributors to **explore high-quality READ
 
 ---
 
+## 📝 Feature Requests Page  
+
+The Feature Requests Page allows users to:  
+- 🚀 Submit new ideas via a structured form (`FeatureRequestForm.tsx`).  
+- 🔼 Vote on existing requests using an interactive system (`FeatureCard.tsx`).  
+- 💾 Persist votes across sessions using LocalStorage (`useLocalStorage.ts`).  
+- 🔍 Sort requests by **Most Votes, Newest, and Trending**.  
+- 🏷️ Track feature statuses like `"Planned"`, `"Under Review"`, and `"Rejected"`.  
+
+Users can now **actively participate in shaping future improvements** by submitting and voting
+
+---
+
 <h2 style="font-family: Helvetica, sans-serif;">� Documentation</h2>
 
 Comprehensive documentation is available to help you understand and contribute to the project:
