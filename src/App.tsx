@@ -10,11 +10,12 @@ import ProjectsSection from "./components/ProjectsSection";
 import SubmitSection from "./components/SubmitSection";
 import DragDropEditor from "./pages/DragDropEditor";
 import ComingSoon from "./pages/ComingSoon";
+import FeatureRequestsPage from "./pages/FeatureRequestsPage"; // ✅ Added Import
 import NotFound from "./pages/NotFound";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import TermsOfService from "./pages/TermsOfService";
 import { ThemeProvider } from "./components/theme-provider";
-import { Toaster } from './components/ui/sonner'
+import { Toaster } from "./components/ui/sonner";
 
 const queryClient = new QueryClient();
 
@@ -33,6 +34,7 @@ export default function App() {
               <Route path="/submit" element={<Layout><SubmitSection /></Layout>} />
               <Route path="/drag-drop" element={<Layout><DragDropEditor /></Layout>} />
               <Route path="/coming-soon" element={<Layout><ComingSoon /></Layout>} />
+              <Route path="/feature-requests" element={<Layout><FeatureRequestsPage /></Layout>} /> {/* ✅ Added Route */}
               <Route path="/privacy" element={<Layout><PrivacyPolicy /></Layout>} />
               <Route path="/terms" element={<Layout><TermsOfService /></Layout>} />
               <Route path="/dashboard" element={<Dashboard />} />
@@ -45,4 +47,3 @@ export default function App() {
     </QueryClientProvider>
   );
 };
-
