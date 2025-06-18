@@ -15,47 +15,9 @@
     <link rel="icon" type="image/png" sizes="32x32" href="./rdkf.svg">
     <link rel="icon" type="image/png" sizes="16x16" href="./rdkf.svg">
     <link rel="manifest" href="/Assets/site.webmanifest">
-<style>
-  .glowing-neon-border {
-    position: relative;
-    padding: 2rem;
-    border-radius: 12px;
-    background-color: #0a0a0a;
-    color: #fff;
-    overflow: hidden;
-    z-index: 0;
-    max-width: 400px;
-    margin: 2rem auto;
-    text-align: center;
-  }
-  .glowing-neon-border::before {
-    content: "";
-    position: absolute;
-    top: -3px;
-    left: -3px;
-    right: -3px;
-    bottom: -3px;
-    border-radius: 15px;
-    background: linear-gradient(270deg, #ff00cc, #3333ff, #00ffff, #ff00cc);
-    background-size: 600% 600%;
-    z-index: -1;
-    animation: neonGlow 8s ease infinite;
-  }
-
-  @keyframes neonGlow {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-</style>
-
   </head>
   <body>
-    <div class="glowing-neon-border">
-    <h2>README Design Kit</h2>
-    <p>Stylish GitHub ReadMe sections made easy!</p>
-  </div>
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
-</body>
+  </body>
 </html>
