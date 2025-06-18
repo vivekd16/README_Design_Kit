@@ -4,6 +4,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import Dashboard from "./pages/Dashboard";
 import Layout from "./components/Layout";
+import ScrollToTop from "./components/ScrollToTop";
 import Elements from "./pages/Elements";
 import Hero from "./pages/Hero";
 import ProjectsSection from "./components/ProjectsSection";
@@ -25,6 +26,7 @@ export default function App() {
       <TooltipProvider>
         <ThemeProvider defaultTheme="system" storageKey="readme-design-kit-theme">
           <BrowserRouter>
+            <ScrollToTop />
             <Routes>
               {/* Routes with Layout (navbar + footer) */}
               <Route path="/" element={<Layout><Home /></Layout>} />
