@@ -221,7 +221,7 @@ const componentsData = {
     {
       title: "Profile Views",
       description: "Track profile visits with a counter",
-      imageUrl: "https://komarev.com/ghpvc/?username=mayur-pagote&color=blueviolet&style=flat-square&label=Profile+Views",
+      imageUrl: "https://komarev.com/ghpvc/?username={username}&color=blueviolet&style=flat-square&label=Profile+Views",
       codeSnippet: "![Profile Views](https://komarev.com/ghpvc/?username={username}&color=blueviolet&style=flat-square&label=Profile+Views)"
     }
   ],
@@ -389,7 +389,7 @@ const componentsData = {
     {
       title: "Language Stats Donut",
       description: "Programming languages in donut chart format",
-      imageUrl: "https://github-readme-stats.vercel.app/api/top-langs/?username=mayur-pagote&theme=radical&layout=donut",
+      imageUrl: "https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=radical&layout=donut",
       codeSnippet: "![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=radical&layout=donut)"
     }
   ],
