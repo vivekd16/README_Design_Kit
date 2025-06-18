@@ -87,13 +87,13 @@ const SubmitSection: React.FC = () => {
 
   if (submitted) {
     return (
-      <section className="py-20 bg-white">
+      <section className="py-20 bg-white dark:bg-card">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <div className="w-16 h-16 bg-green-100 rounded-full mx-auto mb-6 flex items-center justify-center">
-            <Rocket className="w-8 h-8 text-green-600" />
+          <div className="w-16 h-16 bg-green-100 dark:bg-green-900/30 rounded-full mx-auto mb-6 flex items-center justify-center">
+            <Rocket className="w-8 h-8 text-green-600 dark:text-green-400" />
           </div>
-          <h2 className="text-3xl font-bold text-gray-900 mb-4">Project Submitted Successfully!</h2>
-          <p className="text-lg text-gray-600">
+          <h2 className="text-3xl font-bold text-gray-900 dark:text-foreground mb-4">Project Submitted Successfully!</h2>
+          <p className="text-lg text-gray-600 dark:text-muted-foreground">
             Thank you for sharing your project with the community. We'll review it and get back to you soon.
           </p>
         </div>
@@ -156,37 +156,42 @@ const SubmitSection: React.FC = () => {
                   <label className="block text-sm font-medium text-foreground mb-2">
                     Project Title *
                   </label>
-                  <input
-                    type="text"
-                    name="title"
-                    value={formData.title}
-                    onChange={handleChange}
-                    required
-                    placeholder="Give your project a catchy name"
-                    className={commonInputClasses}
-                  />
+                  <div className="border border-border rounded-lg">
+                    <input
+                      type="text"
+                      name="title"
+                      value={formData.title}
+                      onChange={handleChange}
+                      required
+                      placeholder="Give your project a catchy name"
+                      className={`${commonInputClasses} rounded-lg -m-px`}
+                    />
+                  </div>
                 </div>
 
                 <div>
                   <label className="block text-sm font-medium text-foreground mb-2">
                     Category *
-                  </label>                  <select
-                    name="category"
-                    value={formData.category}
-                    onChange={handleChange}
-                    required
-                    className={`${commonInputClasses} bg-card text-foreground appearance-none`}
-                    style={{
-                      WebkitAppearance: 'none',
-                      MozAppearance: 'none'
-                    }}
-                  >
-                    <option value="" className="bg-card text-muted-foreground">Select a category</option>
-                    {categories.map((category) => (
-                      <option key={category} value={category}
-                        className="bg-card text-foreground">{category}</option>
-                    ))}
-                  </select>
+                  </label>
+                  <div className="border border-border rounded-lg">
+                    <select
+                      name="category"
+                      value={formData.category}
+                      onChange={handleChange}
+                      required
+                      className={`${commonInputClasses} bg-card text-foreground appearance-none rounded-lg -m-px`}
+                      style={{
+                        WebkitAppearance: 'none',
+                        MozAppearance: 'none'
+                      }}
+                    >
+                      <option value="" className="bg-card text-muted-foreground">Select a category</option>
+                      {categories.map((category) => (
+                        <option key={category} value={category}
+                          className="bg-card text-foreground">{category}</option>
+                      ))}
+                    </select>
+                  </div>
                 </div>
               </div>
 
@@ -194,29 +199,33 @@ const SubmitSection: React.FC = () => {
                 <label className="block text-sm font-medium text-foreground mb-2">
                   Description *
                 </label>
-                <textarea
-                  name="description"
-                  value={formData.description}
-                  onChange={handleChange}
-                  required
-                  rows={4}
-                  placeholder="Describe what your project does and what makes it special..."
-                  className={commonInputClasses}
-                />
+                <div className="border border-border rounded-lg">
+                  <textarea
+                    name="description"
+                    value={formData.description}
+                    onChange={handleChange}
+                    required
+                    rows={4}
+                    placeholder="Describe what your project does and what makes it special..."
+                    className={`${commonInputClasses} rounded-lg -m-px`}
+                  />
+                </div>
               </div>
 
               <div>
                 <label className="block text-sm font-medium text-foreground mb-2">
                   Tags
                 </label>
-                <input
-                  type="text"
-                  name="tags"
-                  value={formData.tags}
-                  onChange={handleChange}
-                  placeholder="React, TypeScript, Node.js, MongoDB (separate with commas)"
-                  className={commonInputClasses}
-                />
+                <div className="border border-border rounded-lg">
+                  <input
+                    type="text"
+                    name="tags"
+                    value={formData.tags}
+                    onChange={handleChange}
+                    placeholder="React, TypeScript, Node.js, MongoDB (separate with commas)"
+                    className={`${commonInputClasses} rounded-lg -m-px`}
+                  />
+                </div>
               </div>
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -224,17 +233,19 @@ const SubmitSection: React.FC = () => {
                   <label className="block text-sm font-medium text-foreground mb-2">
                     Your Name *
                   </label>
-                  <div className="relative">
-                    <User className="absolute left-3 top-1/2 transform -translate-y-1/2 text-muted-foreground w-5 h-5" />
-                    <input
-                      type="text"
-                      name="authorName"
-                      value={formData.authorName}
-                      onChange={handleChange}
-                      required
-                      placeholder="Mayur Pagote"
-                      className={`${commonInputClasses} pl-10`}
-                    />
+                  <div className="border border-border rounded-lg">
+                    <div className="relative">
+                      <User className="absolute left-3 top-1/2 transform -translate-y-1/2 text-muted-foreground w-5 h-5" />
+                      <input
+                        type="text"
+                        name="authorName"
+                        value={formData.authorName}
+                        onChange={handleChange}
+                        required
+                        placeholder="Mayur Pagote"
+                        className={`${commonInputClasses} pl-10 rounded-lg -m-px`}
+                      />
+                    </div>
                   </div>
                 </div>
 
@@ -242,17 +253,19 @@ const SubmitSection: React.FC = () => {
                   <label className="block text-sm font-medium text-foreground mb-2">
                     Email *
                   </label>
-                  <div className="relative">
-                    <Mail className="absolute left-3 top-1/2 transform -translate-y-1/2 text-muted-foreground w-5 h-5" />
-                    <input
-                      type="email"
-                      name="authorEmail"
-                      value={formData.authorEmail}
-                      onChange={handleChange}
-                      required
-                      placeholder="mayur@example.com"
-                      className={`${commonInputClasses} pl-10`}
-                    />
+                  <div className="border border-border rounded-lg">
+                    <div className="relative">
+                      <Mail className="absolute left-3 top-1/2 transform -translate-y-1/2 text-muted-foreground w-5 h-5" />
+                      <input
+                        type="email"
+                        name="authorEmail"
+                        value={formData.authorEmail}
+                        onChange={handleChange}
+                        required
+                        placeholder="mayur@example.com"
+                        className={`${commonInputClasses} pl-10 rounded-lg -m-px`}
+                      />
+                    </div>
                   </div>
                 </div>
               </div>
