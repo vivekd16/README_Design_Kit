@@ -46,24 +46,84 @@ const componentsData = {
     }
   ],
   cards: [
-    {
-      title: "Profile Summary",
-      description: "A comprehensive profile summary card",
-      imageUrl: "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayur-pagote&theme=radical",
-      codeSnippet: "![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=radical)"
-    },
-    {
-      title: "Top Languages",
-      description: "Display your most used programming languages",
-      imageUrl: "https://github-readme-stats.vercel.app/api/top-langs/?username=mayur-pagote&theme=radical&layout=compact",
-      codeSnippet: "![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=radical&layout=compact)"
-    },
-    {
-      title: "Repository Card",
-      description: "Showcase a specific repository",
-      imageUrl: "https://github-readme-stats.vercel.app/api/pin/?username=mayur-pagote&repo=readme-design-kit&theme=radical",
-      codeSnippet: "![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username={username}&repo=your-repo-name&theme=radical)"
-    }
+  {
+    title: "Tokyo Pulse Card",
+    description: "An animated GitHub stats card using the Tokyo Night theme",
+    imageUrl: "https://awesome-github-stats.azurewebsites.net/user-stats/{username}?theme=tokyonight",
+    codeSnippet: "![Stats Card 1](https://awesome-github-stats.azurewebsites.net/user-stats/{username}?theme=tokyonight)"
+  },
+  {
+    title: "Octocat Classic Card",
+    description: "An animated GitHub stats card with the Octocat style using the GitHub theme",
+    imageUrl: "https://awesome-github-stats.azurewebsites.net/user-stats/{username}?theme=github&cardType=octocat",
+    codeSnippet: "![Stats Card 2](https://awesome-github-stats.azurewebsites.net/user-stats/{username}?theme=github&cardType=octocat)"
+  },
+  {
+    title: "Dark Level Meter Card",
+    description: "An animated stats card with level-alternate layout and Dracula theme",
+    imageUrl: "https://awesome-github-stats.azurewebsites.net/user-stats/{username}?theme=dracula&cardType=level-alternate",
+    codeSnippet: "![Stats Card 3](https://awesome-github-stats.azurewebsites.net/user-stats/{username}?theme=dracula&cardType=level-alternate)"
+  },
+  {
+    title: "GitHub Dark Matrix",
+    description: "Animated GitHub stats card with GitHub Dark theme and GitHub layout",
+    imageUrl: "https://awesome-github-stats.azurewebsites.net/user-stats/{username}?theme=github-dark&cardType=github",
+    codeSnippet: "![Stats Card 4](https://awesome-github-stats.azurewebsites.net/user-stats/{username}?theme=github-dark&cardType=github)"
+  },
+  {
+    title: "Vercel Tokyo Stats",
+    description: "Classic GitHub stats card using Vercel's GitHub Readme Stats with Tokyo Night theme",
+    imageUrl: "https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&locale=en&theme=tokyonight",
+    codeSnippet: "![Stats Card 5](https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&locale=en&theme=tokyonight)"
+  },
+  {
+    title: "Minimal Impact Card",
+    description: "Simple stats card with minimal visual using GitHub Stats Alpha",
+    imageUrl: "https://github-stats-alpha.vercel.app/api/?username={username}",
+    codeSnippet: "![Stats Card 6](https://github-stats-alpha.vercel.app/api/?username={username})"
+  },
+  {
+    title: "Synthwave Merge Tracker",
+    description: "GitHub Readme Stats card showing PR reviews and merge metrics in Synthwave theme",
+    imageUrl: "https://github-readme-stats.vercel.app/api?username={username}&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave",
+    codeSnippet: "![Stats Card 7](https://github-readme-stats.vercel.app/api?username={username}&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave)"
+  },
+  {
+    title: "High Contrast Insights",
+    description: "GitHub stats card with rank icon (GitHub logo) and High Contrast theme",
+    imageUrl: "https://github-readme-stats.vercel.app/api?username={username}&rank_icon=github&theme=highcontrast",
+    codeSnippet: "![Stats Card 8](https://github-readme-stats.vercel.app/api?username={username}&rank_icon=github&theme=highcontrast)"
+  },
+  {
+    title: "Percentile Rank Card",
+    description: "GitHub stats card with percentile rank icon and Vision Friendly Dark theme",
+    imageUrl: "https://github-readme-stats.vercel.app/api?username={username}&rank_icon=percentile&theme=vision-friendly-dark",
+    codeSnippet: "![Stats Card 9](https://github-readme-stats.vercel.app/api?username={username}&rank_icon=percentile&theme=vision-friendly-dark)"
+  },
+  {
+    title: "Profile Summary Stats",
+    description: "Profile summary stats card with the 2077 theme from GitHub Profile Summary Cards",
+    imageUrl: "https://github-profile-summary-cards.vercel.app/api/cards/stats?username={username}&theme=2077",
+    codeSnippet: "![Stats Card 10](https://github-profile-summary-cards.vercel.app/api/cards/stats?username={username}&theme=2077)"
+  },
+  {
+    title: "Stats Bar Card",
+    description: "A horizontal bar-style GitHub widget showing followers, repositories, stars, and commits",
+    imageUrl: "https://github-widgetbox.vercel.app/api/profile?username={username}&data=followers,repositories,stars,commits&theme=dark",
+    codeSnippet: "![Stats Bar Card](https://github-widgetbox.vercel.app/api/profile?username={username}&data=followers,repositories,stars,commits&theme=dark)"
+  },
+  {
+    title: "Productive Hours Card",
+    description: "Visual representation of the most productive time of day for contributions",
+    imageUrl: "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={username}&theme=transparent",
+    codeSnippet: "![Productive Hours](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={username}&theme=transparent)"
+  },
+  {
+    title: "Contribution Streak Card",
+    description: "Tracks your GitHub streak stats in a clean and transparent style",
+    imageUrl: "https://github-readme-streak-stats.herokuapp.com?user={username}&theme=transparent&hide_border=true",
+    codeSnippet: "![Contribution Streak](https://github-readme-streak-stats.herokuapp.com?user={username}&theme=transparent&hide_border=true)"
+    }      
   ],
   animation: [
     {
@@ -369,8 +429,8 @@ const PreviewGrid = ({ selectedCategory, username }: PreviewGridProps) => {
               key={`${selectedCategory}-${index}`}
               title={component.title}
               description={component.description}
-              imageUrl={component.imageUrl.replace(/mayur-pagote/g, username)}
-              codeSnippet={component.codeSnippet}
+              imageUrl={component.imageUrl.replace(/{username}/g, username)}
+              codeSnippet={component.codeSnippet.replace(/{username}/g, username)}
               username={username}
             />
           ))}
