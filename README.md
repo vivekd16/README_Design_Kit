@@ -1,4 +1,4 @@
-![Banner](./bannerr.gif)
+
 
 <div align="center">
   <picture>
