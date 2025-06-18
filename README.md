@@ -1,5 +1,14 @@
 ![Banner](./bannerr.gif)
 
+<div align="center">
+  <picture>
+    <source srcset="./rdk.svg" media="(prefers-color-scheme: dark)">
+    <source srcset="./rdkd.svg" media="(prefers-color-scheme: light)">
+    <img src="./rdkd.svg" alt="README Design Kit Logo" height="100">
+  </picture>
+</div>
+
+
 
 [![MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]()
