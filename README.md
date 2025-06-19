@@ -55,6 +55,25 @@ The **Project Showcase Page** allows contributors to **explore high-quality READ
 
 ---
 
+## ✨ Branding Assistant
+
+Improve your README with real-time tone and structure suggestions powered by AI.
+
+### Features
+
+- 🎯 Tone presets: Casual, Professional, Technical, Open-Source  
+- 🧠 AI-driven suggestions for clarity, tone consistency, and structure  
+- ⚡ Inline fix buttons and live feedback panel  
+- 🧪 Instant scoring: Overall branding + tone consistency
+
+### Usage
+
+Click the ✨ button in the bottom-right corner of the editor to launch the assistant.  
+Choose your desired tone and review suggestions in the sidebar panel.  
+Click “Apply Fix” to update the content instantly.
+
+---
+
 <h2 style="font-family: Helvetica, sans-serif;">� Documentation</h2>
 
 Comprehensive documentation is available to help you understand and contribute to the project:
