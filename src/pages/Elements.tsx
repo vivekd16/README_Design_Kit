@@ -10,8 +10,6 @@ export default function Elements() {
   const [selectedCategory, setSelectedCategory] = useState('graphs');
   const [sidebarOpen, setSidebarOpen] = useState(true);
 
-  const isMobile = window.innerWidth < 768;
-
   useEffect(() => {
     const handleResize = () => {
       if (window.innerWidth >= 768) {
