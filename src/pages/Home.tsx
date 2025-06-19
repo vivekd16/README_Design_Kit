@@ -1,5 +1,8 @@
 "use client";
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
+import { Button } from '@/components/ui/button';
+import { ArrowRight, Sparkles, Layout } from 'lucide-react';
+import { QuickStartGuide } from '@/components/QuickStartGuide';
 
 import { motion } from "motion/react";
 import Aurora from "@/components/LandingComponents/Aurora";
@@ -8,6 +11,7 @@ import { useTheme } from "@/components/theme-provider";
 
 export default function Home() {
   const { theme } = useTheme();
+  const navigate = useNavigate();
   const isDark = theme === "dark" || (theme === "system" && window.matchMedia("(prefers-color-scheme: dark)").matches);
 
   return (
@@ -65,14 +69,38 @@ export default function Home() {
           >
             Effortlessly generate beautiful README components, badges, and graphics for your projects{" "}
             <span className="text-primary font-semibold">—all at once.</span>
-          </motion.h2>
-
-          <motion.div
+          </motion.h2>          <motion.div
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.6, duration: 0.8 }}
             className="flex flex-col sm:flex-row gap-4 mt-8"
           >
+            <Button asChild size="lg" className="flex items-center gap-2">
+              <Link to="/templates">
+                <Sparkles className="h-5 w-5" />
+                Browse Templates
+                <ArrowRight className="h-4 w-4" />
+              </Link>
+            </Button>
+              <Button asChild variant="outline" size="lg" className="flex items-center gap-2">
+              <Link to="/drag-drop">
+                <Layout className="h-5 w-5" />
+                Start from Scratch
+              </Link>
+            </Button>
+          </motion.div>
+
+          {/* Quick Start Guide */}
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.8, duration: 0.8 }}
+            className="mt-6"
+          >
+            <QuickStartGuide
+              onStartWithTemplate={() => navigate('/templates')}
+              onStartFromScratch={() => navigate('/drag-drop')}
+            />
           </motion.div>
         </div>
       </div>

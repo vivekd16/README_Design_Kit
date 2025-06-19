@@ -14,7 +14,8 @@ import {
   Github,
   Star,
   Sparkles,
-  Upload
+  Upload,
+  Library
 } from 'lucide-react';
 import { cn } from '@/lib/utils';
 import { GitHubStarsButton } from '@/components/CustomComps/buttons/github-stars';
@@ -22,6 +23,7 @@ import { ModeToggle } from '@/components/mode-toggle';
 
 const navigation = [
   { name: 'Home', href: '/', icon: Home },
+  { name: 'Templates', href: '/templates', icon: Library, badge: 'New' },
   { name: 'Elements', href: '/elements', icon: Layers },
   { 
     name: 'Showcase', 
