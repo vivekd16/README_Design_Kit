@@ -135,7 +135,7 @@ const componentsData = {
     {
       title: "Snake Game",
       description: "Animated snake eating your contributions",
-      imageUrl: "https://github.com/mayur-pagote/mayur-pagote/blob/output/github-contribution-grid-snake.svg",
+      imageUrl: "https://repository-images.githubusercontent.com/588146108/407f075c-d836-48f6-beed-b1a026b3f0a7",
       codeSnippet: "![Snake animation](https://github.com/{username}/{username}/blob/output/github-contribution-grid-snake.svg)"
     },
     {
