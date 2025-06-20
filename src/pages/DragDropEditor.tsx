@@ -12,6 +12,7 @@ import { ElementPalette } from '@/components/ElementPalette';
 import { EditorCanvas } from '@/components/EditorCanvas';
 import { ReadmePreview } from '@/components/ReadmePreview';
 import { ElementEditor } from '@/components/ElementEditor';
+import { AssistantLauncher } from '@/components/AssistantLauncher';
 import { demoElements } from '@/data/demo';
 import type { ElementType } from '@/types/elements';
 
@@ -35,8 +36,15 @@ export default function DragDropEditor() {
     );
     setEditingElement(null);
   };
+
   const handleElementsChange = (newElements: ElementType[]) => {
     setElements(newElements);
+  };
+
+  const handleBrandingSuggestion = (id: string, newContent: string) => {
+    setElements(prev =>
+      prev.map(el => el.id === id ? { ...el, content: newContent } : el)
+    );
   };
 
   const loadDemo = () => {
@@ -94,7 +102,6 @@ export default function DragDropEditor() {
                   {showPalette ? 'Hide' : 'Show'} Elements
                 </span>
               </Button>
-
               <Button
                 variant="outline"
                 size="sm"
@@ -106,7 +113,6 @@ export default function DragDropEditor() {
                   {showPreview ? 'Hide' : 'Show'} Preview
                 </span>
               </Button>
-
             </div>
           </div>
         </div>
@@ -114,27 +120,31 @@ export default function DragDropEditor() {
 
       {/* Editor Layout */}
       <div className="flex-1 flex overflow-hidden">
-        {/* Elements Palette */}
         {showPalette && (
           <ElementPalette onAddElement={handleAddElement} />
         )}
 
-        {/* Main Editor Canvas */}
         <EditorCanvas
           elements={elements}
           onElementsChange={handleElementsChange}
           onEditElement={handleEditElement}
         />
 
-        {/* README Preview */}
         {showPreview && (
-          <div className="w-1/2 border-l border-border">
+          <div className="border-l border-border w-1/2">
             <ReadmePreview elements={elements} />
           </div>
         )}
       </div>
 
-      {/* Element Editor Dialog */}
+      {/* Floating AI Assistant */}
+      <AssistantLauncher
+        elements={elements}
+        isEditorActive={elements.length > 0}
+        onApplySuggestion={handleBrandingSuggestion}
+      />
+
+      {/* Element Editor */}
       <ElementEditor
         element={editingElement}
         isOpen={editingElement !== null}
