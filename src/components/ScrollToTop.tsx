@@ -1,13 +1,30 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 
 interface ScrollToTopProps {
-  isVisible: boolean;
+  isVisible?: boolean;
 }
 
-const ScrollToTop: React.FC<ScrollToTopProps> = ({ isVisible }) => {
+const ScrollToTop: React.FC<ScrollToTopProps> = ({ isVisible: isVisibleProp }) => {
+  const [internalIsVisible, setInternalIsVisible] = useState(false);
+
+  // Show button when page is scrolled down, only if not controlled by parent
+  useEffect(() => {
+    if (isVisibleProp !== undefined) return; // Controlled by parent, do nothing
+
+    const toggleVisibility = () => {
+      setInternalIsVisible(window.scrollY > 300);
+    };
+
+    window.addEventListener('scroll', toggleVisibility);
+    toggleVisibility(); // Check on mount
+    return () => window.removeEventListener('scroll', toggleVisibility);
+  }, [isVisibleProp]);
+
   const scrollToTop = () => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
+
+  const isVisible = isVisibleProp !== undefined ? isVisibleProp : internalIsVisible;
 
   return (
     <>
