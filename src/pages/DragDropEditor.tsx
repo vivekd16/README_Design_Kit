@@ -1,5 +1,5 @@
-import { useState } from 'react';
-import { Link } from 'react-router-dom';
+import { useState, useEffect } from 'react';
+import { Link, useLocation } from 'react-router-dom';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
 import {
@@ -7,20 +7,57 @@ import {
   PanelLeft,
   PanelRight,
   Sparkles,
+  Library,
 } from 'lucide-react';
 import { ElementPalette } from '@/components/ElementPalette';
 import { EditorCanvas } from '@/components/EditorCanvas';
 import { ReadmePreview } from '@/components/ReadmePreview';
 import { ElementEditor } from '@/components/ElementEditor';
+import { SaveTemplateDialog } from '@/components/SaveTemplateDialog';
 import { AssistantLauncher } from '@/components/AssistantLauncher';
 import { demoElements } from '@/data/demo';
+import { TemplateUtils } from '@/utils/templateUtils';
 import type { ElementType } from '@/types/elements';
+import type { Template } from '@/types/templates';
 
 export default function DragDropEditor() {
   const [elements, setElements] = useState<ElementType[]>([]);
   const [editingElement, setEditingElement] = useState<ElementType | null>(null);
   const [showPalette, setShowPalette] = useState(true);
   const [showPreview, setShowPreview] = useState(true);
+  const [loadedTemplateName, setLoadedTemplateName] = useState<string | null>(null);
+  const location = useLocation();
+  // Load template if one was selected
+  useEffect(() => {
+    const urlParams = new URLSearchParams(location.search);
+    const shouldLoadTemplate = urlParams.get('template') === 'true';
+    
+    if (shouldLoadTemplate) {
+      const storedTemplate = sessionStorage.getItem('selectedTemplate');
+      if (storedTemplate) {
+        try {
+          const template: Template = JSON.parse(storedTemplate);
+          
+          // Validate template before loading
+          const validation = TemplateUtils.validateTemplate(template);
+          if (!validation.isValid) {
+            console.error('Invalid template:', validation.errors);
+            return;
+          }
+          
+          // Clone elements with new IDs and load them
+          const clonedElements = TemplateUtils.cloneTemplateElements(template);
+          setElements(clonedElements);
+          setLoadedTemplateName(template.name);
+          
+          // Clear the stored template after loading
+          sessionStorage.removeItem('selectedTemplate');
+        } catch (error) {
+          console.error('Error loading template:', error);
+        }
+      }
+    }
+  }, [location]);
 
   const handleAddElement = (element: ElementType) => {
     setElements(prev => [...prev, element]);
@@ -67,12 +104,27 @@ export default function DragDropEditor() {
                   <ArrowLeft className="h-4 w-4" />
                   Back
                 </Link>
-              </Button>
-              <span className="text-muted-foreground">•</span>
+              </Button>              <span className="text-muted-foreground">•</span>
               <h1 className="text-xl font-semibold">Drag & Drop README Editor</h1>
+              {loadedTemplateName && (
+                <>
+                  <span className="text-muted-foreground">•</span>
+                  <span className="text-sm text-muted-foreground">
+                    From template: <span className="font-medium">{loadedTemplateName}</span>
+                  </span>
+                </>
+              )}
               <Badge variant="default">Beta</Badge>
-            </div>
-            <div className="flex items-center gap-2">
+            </div>            <div className="flex items-center gap-2">
+              <Button
+                variant="outline"
+                size="sm"
+                onClick={() => window.open('/templates', '_blank')}
+                className="flex items-center gap-2"
+              >
+                <Library className="h-4 w-4" />
+                Browse Templates
+              </Button>
               <Button
                 variant="outline"
                 size="sm"
@@ -81,8 +133,7 @@ export default function DragDropEditor() {
               >
                 <Sparkles className="h-4 w-4" />
                 Load Demo
-              </Button>
-              <Button
+              </Button>              <Button
                 variant="outline"
                 size="sm"
                 onClick={clearAll}
@@ -90,6 +141,10 @@ export default function DragDropEditor() {
               >
                 Clear All
               </Button>
+              <SaveTemplateDialog 
+                elements={elements}
+                onSave={(template) => console.log('Template saved:', template)}
+              />
               <span className="text-muted-foreground mx-2">•</span>
               <Button
                 variant="outline"
